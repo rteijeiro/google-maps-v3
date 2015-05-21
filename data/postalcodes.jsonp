@@ -1,0 +1,9402 @@
+postalcodes = [
+  {
+    "code":"111 15",
+    "location":"Stockholm",
+    "population":4
+  },
+  {
+    "code":"111 20",
+    "location":"Stockholm",
+    "population":159
+  },
+  {
+    "code":"111 21",
+    "location":"Stockholm",
+    "population":274
+  },
+  {
+    "code":"111 22",
+    "location":"Stockholm",
+    "population":135
+  },
+  {
+    "code":"111 23",
+    "location":"Stockholm",
+    "population":765
+  },
+  {
+    "code":"111 24",
+    "location":"Stockholm",
+    "population":891
+  },
+  {
+    "code":"111 27",
+    "location":"Stockholm",
+    "population":891
+  },
+  {
+    "code":"111 28",
+    "location":"Stockholm",
+    "population":102
+  },
+  {
+    "code":"111 29",
+    "location":"Stockholm",
+    "population":837
+  },
+  {
+    "code":"111 30",
+    "location":"Stockholm",
+    "population":456
+  },
+  {
+    "code":"111 31",
+    "location":"Stockholm",
+    "population":898
+  },
+  {
+    "code":"111 34",
+    "location":"Stockholm",
+    "population":144
+  },
+  {
+    "code":"111 35",
+    "location":"Stockholm",
+    "population":3
+  },
+  {
+    "code":"111 36",
+    "location":"Stockholm",
+    "population":292
+  },
+  {
+    "code":"111 37",
+    "location":"Stockholm",
+    "population":518
+  },
+  {
+    "code":"111 38",
+    "location":"Stockholm",
+    "population":1090
+  },
+  {
+    "code":"111 39",
+    "location":"Stockholm",
+    "population":677
+  },
+  {
+    "code":"111 40",
+    "location":"Stockholm",
+    "population":841
+  },
+  {
+    "code":"111 43",
+    "location":"Stockholm",
+    "population":6
+  },
+  {
+    "code":"111 44",
+    "location":"Stockholm",
+    "population":149
+  },
+  {
+    "code":"111 45",
+    "location":"Stockholm",
+    "population":15
+  },
+  {
+    "code":"111 46",
+    "location":"Stockholm",
+    "population":1
+  },
+  {
+    "code":"111 47",
+    "location":"Stockholm",
+    "population":8
+  },
+  {
+    "code":"111 48",
+    "location":"Stockholm",
+    "population":8
+  },
+  {
+    "code":"111 49",
+    "location":"Stockholm",
+    "population":52
+  },
+  {
+    "code":"111 51",
+    "location":"Stockholm",
+    "population":7
+  },
+  {
+    "code":"111 52",
+    "location":"Stockholm",
+    "population":549
+  },
+  {
+    "code":"111 53",
+    "location":"Stockholm",
+    "population":1
+  },
+  {
+    "code":"111 56",
+    "location":"Stockholm",
+    "population":41
+  },
+  {
+    "code":"111 57",
+    "location":"Stockholm",
+    "population":106
+  },
+  {
+    "code":"111 60",
+    "location":"Stockholm",
+    "population":930
+  },
+  {
+    "code":"111 61",
+    "location":"Stockholm",
+    "population":330
+  },
+  {
+    "code":"111 64",
+    "location":"Stockholm",
+    "population":250
+  },
+  {
+    "code":"112 15",
+    "location":"Stockholm",
+    "population":2065
+  },
+  {
+    "code":"112 16",
+    "location":"Stockholm",
+    "population":1133
+  },
+  {
+    "code":"112 17",
+    "location":"Stockholm",
+    "population":1159
+  },
+  {
+    "code":"112 18",
+    "location":"Stockholm",
+    "population":1594
+  },
+  {
+    "code":"112 19",
+    "location":"Stockholm",
+    "population":1057
+  },
+  {
+    "code":"112 20",
+    "location":"Stockholm",
+    "population":1405
+  },
+  {
+    "code":"112 21",
+    "location":"Stockholm",
+    "population":2028
+  },
+  {
+    "code":"112 22",
+    "location":"Stockholm",
+    "population":911
+  },
+  {
+    "code":"112 23",
+    "location":"Stockholm",
+    "population":1338
+  },
+  {
+    "code":"112 24",
+    "location":"Stockholm",
+    "population":1009
+  },
+  {
+    "code":"112 25",
+    "location":"Stockholm",
+    "population":951
+  },
+  {
+    "code":"112 26",
+    "location":"Stockholm",
+    "population":684
+  },
+  {
+    "code":"112 27",
+    "location":"Stockholm",
+    "population":1351
+  },
+  {
+    "code":"112 28",
+    "location":"Stockholm",
+    "population":1309
+  },
+  {
+    "code":"112 29",
+    "location":"Stockholm",
+    "population":1155
+  },
+  {
+    "code":"112 30",
+    "location":"Stockholm",
+    "population":832
+  },
+  {
+    "code":"112 31",
+    "location":"Stockholm",
+    "population":1023
+  },
+  {
+    "code":"112 32",
+    "location":"Stockholm",
+    "population":836
+  },
+  {
+    "code":"112 33",
+    "location":"Stockholm",
+    "population":2277
+  },
+  {
+    "code":"112 34",
+    "location":"Stockholm",
+    "population":1025
+  },
+  {
+    "code":"112 35",
+    "location":"Stockholm",
+    "population":793
+  },
+  {
+    "code":"112 36",
+    "location":"Stockholm",
+    "population":1102
+  },
+  {
+    "code":"112 37",
+    "location":"Stockholm",
+    "population":1018
+  },
+  {
+    "code":"112 38",
+    "location":"Stockholm",
+    "population":1267
+  },
+  {
+    "code":"112 39",
+    "location":"Stockholm",
+    "population":1159
+  },
+  {
+    "code":"112 40",
+    "location":"Stockholm",
+    "population":1021
+  },
+  {
+    "code":"112 41",
+    "location":"Stockholm",
+    "population":1294
+  },
+  {
+    "code":"112 42",
+    "location":"Stockholm",
+    "population":1019
+  },
+  {
+    "code":"112 43",
+    "location":"Stockholm",
+    "population":1029
+  },
+  {
+    "code":"112 44",
+    "location":"Stockholm",
+    "population":1519
+  },
+  {
+    "code":"112 45",
+    "location":"Stockholm",
+    "population":2071
+  },
+  {
+    "code":"112 46",
+    "location":"Stockholm",
+    "population":941
+  },
+  {
+    "code":"112 47",
+    "location":"Stockholm",
+    "population":1381
+  },
+  {
+    "code":"112 48",
+    "location":"Stockholm",
+    "population":997
+  },
+  {
+    "code":"112 49",
+    "location":"Stockholm",
+    "population":1359
+  },
+  {
+    "code":"112 50",
+    "location":"Stockholm",
+    "population":974
+  },
+  {
+    "code":"112 51",
+    "location":"Stockholm",
+    "population":71
+  },
+  {
+    "code":"112 52",
+    "location":"Stockholm",
+    "population":1537
+  },
+  {
+    "code":"112 53",
+    "location":"Stockholm",
+    "population":1604
+  },
+  {
+    "code":"112 54",
+    "location":"Stockholm",
+    "population":1138
+  },
+  {
+    "code":"112 55",
+    "location":"Stockholm",
+    "population":1347
+  },
+  {
+    "code":"112 56",
+    "location":"Stockholm",
+    "population":859
+  },
+  {
+    "code":"112 57",
+    "location":"Stockholm",
+    "population":808
+  },
+  {
+    "code":"112 58",
+    "location":"Stockholm",
+    "population":1183
+  },
+  {
+    "code":"112 59",
+    "location":"Stockholm",
+    "population":1348
+  },
+  {
+    "code":"112 60",
+    "location":"Stockholm",
+    "population":1371
+  },
+  {
+    "code":"112 61",
+    "location":"Stockholm",
+    "population":1122
+  },
+  {
+    "code":"112 62",
+    "location":"Stockholm",
+    "population":1361
+  },
+  {
+    "code":"112 63",
+    "location":"Stockholm",
+    "population":803
+  },
+  {
+    "code":"112 64",
+    "location":"Stockholm",
+    "population":1913
+  },
+  {
+    "code":"112 65",
+    "location":"Stockholm",
+    "population":1542
+  },
+  {
+    "code":"112 66",
+    "location":"Stockholm",
+    "population":877
+  },
+  {
+    "code":"112 67",
+    "location":"Stockholm",
+    "population":1540
+  },
+  {
+    "code":"112 69",
+    "location":"Stockholm",
+    "population":935
+  },
+  {
+    "code":"113 20",
+    "location":"Stockholm",
+    "population":908
+  },
+  {
+    "code":"113 21",
+    "location":"Stockholm",
+    "population":1195
+  },
+  {
+    "code":"113 22",
+    "location":"Stockholm",
+    "population":1609
+  },
+  {
+    "code":"113 23",
+    "location":"Stockholm",
+    "population":1202
+  },
+  {
+    "code":"113 24",
+    "location":"Stockholm",
+    "population":1478
+  },
+  {
+    "code":"113 25",
+    "location":"Stockholm",
+    "population":1413
+  },
+  {
+    "code":"113 26",
+    "location":"Stockholm",
+    "population":1541
+  },
+  {
+    "code":"113 27",
+    "location":"Stockholm",
+    "population":1684
+  },
+  {
+    "code":"113 28",
+    "location":"Stockholm",
+    "population":1525
+  },
+  {
+    "code":"113 29",
+    "location":"Stockholm",
+    "population":1740
+  },
+  {
+    "code":"113 30",
+    "location":"Stockholm",
+    "population":1455
+  },
+  {
+    "code":"113 31",
+    "location":"Stockholm",
+    "population":1324
+  },
+  {
+    "code":"113 32",
+    "location":"Stockholm",
+    "population":804
+  },
+  {
+    "code":"113 33",
+    "location":"Stockholm",
+    "population":899
+  },
+  {
+    "code":"113 35",
+    "location":"Stockholm",
+    "population":1778
+  },
+  {
+    "code":"113 36",
+    "location":"Stockholm",
+    "population":1251
+  },
+  {
+    "code":"113 37",
+    "location":"Stockholm",
+    "population":1287
+  },
+  {
+    "code":"113 38",
+    "location":"Stockholm",
+    "population":1360
+  },
+  {
+    "code":"113 39",
+    "location":"Stockholm",
+    "population":1384
+  },
+  {
+    "code":"113 40",
+    "location":"Stockholm",
+    "population":1299
+  },
+  {
+    "code":"113 41",
+    "location":"Stockholm",
+    "population":1396
+  },
+  {
+    "code":"113 42",
+    "location":"Stockholm",
+    "population":813
+  },
+  {
+    "code":"113 43",
+    "location":"Stockholm",
+    "population":1060
+  },
+  {
+    "code":"113 44",
+    "location":"Stockholm",
+    "population":1499
+  },
+  {
+    "code":"113 45",
+    "location":"Stockholm",
+    "population":1404
+  },
+  {
+    "code":"113 46",
+    "location":"Stockholm",
+    "population":1808
+  },
+  {
+    "code":"113 47",
+    "location":"Stockholm",
+    "population":1834
+  },
+  {
+    "code":"113 48",
+    "location":"Stockholm",
+    "population":1290
+  },
+  {
+    "code":"113 49",
+    "location":"Stockholm",
+    "population":1254
+  },
+  {
+    "code":"113 50",
+    "location":"Stockholm",
+    "population":1507
+  },
+  {
+    "code":"113 51",
+    "location":"Stockholm",
+    "population":987
+  },
+  {
+    "code":"113 52",
+    "location":"Stockholm",
+    "population":1397
+  },
+  {
+    "code":"113 53",
+    "location":"Stockholm",
+    "population":1742
+  },
+  {
+    "code":"113 54",
+    "location":"Stockholm",
+    "population":1348
+  },
+  {
+    "code":"113 55",
+    "location":"Stockholm",
+    "population":1194
+  },
+  {
+    "code":"113 56",
+    "location":"Stockholm",
+    "population":970
+  },
+  {
+    "code":"113 57",
+    "location":"Stockholm",
+    "population":940
+  },
+  {
+    "code":"113 58",
+    "location":"Stockholm",
+    "population":1013
+  },
+  {
+    "code":"113 59",
+    "location":"Stockholm",
+    "population":1038
+  },
+  {
+    "code":"113 60",
+    "location":"Stockholm",
+    "population":1421
+  },
+  {
+    "code":"113 61",
+    "location":"Stockholm",
+    "population":1643
+  },
+  {
+    "code":"113 62",
+    "location":"Stockholm",
+    "population":1566
+  },
+  {
+    "code":"113 64",
+    "location":"Stockholm",
+    "population":752
+  },
+  {
+    "code":"114 15",
+    "location":"Stockholm",
+    "population":785
+  },
+  {
+    "code":"114 16",
+    "location":"Stockholm",
+    "population":604
+  },
+  {
+    "code":"114 17",
+    "location":"Stockholm",
+    "population":1223
+  },
+  {
+    "code":"114 18",
+    "location":"Stockholm",
+    "population":982
+  },
+  {
+    "code":"114 19",
+    "location":"Stockholm",
+    "population":154
+  },
+  {
+    "code":"114 20",
+    "location":"Stockholm",
+    "population":1460
+  },
+  {
+    "code":"114 21",
+    "location":"Stockholm",
+    "population":1841
+  },
+  {
+    "code":"114 22",
+    "location":"Stockholm",
+    "population":1118
+  },
+  {
+    "code":"114 23",
+    "location":"Stockholm",
+    "population":818
+  },
+  {
+    "code":"114 24",
+    "location":"Stockholm",
+    "population":1304
+  },
+  {
+    "code":"114 25",
+    "location":"Stockholm",
+    "population":1126
+  },
+  {
+    "code":"114 26",
+    "location":"Stockholm",
+    "population":1208
+  },
+  {
+    "code":"114 27",
+    "location":"Stockholm",
+    "population":965
+  },
+  {
+    "code":"114 28",
+    "location":"Stockholm",
+    "population":574
+  },
+  {
+    "code":"114 29",
+    "location":"Stockholm",
+    "population":691
+  },
+  {
+    "code":"114 30",
+    "location":"Stockholm",
+    "population":948
+  },
+  {
+    "code":"114 31",
+    "location":"Stockholm",
+    "population":851
+  },
+  {
+    "code":"114 32",
+    "location":"Stockholm",
+    "population":1121
+  },
+  {
+    "code":"114 33",
+    "location":"Stockholm",
+    "population":169
+  },
+  {
+    "code":"114 34",
+    "location":"Stockholm",
+    "population":16
+  },
+  {
+    "code":"114 35",
+    "location":"Stockholm",
+    "population":30
+  },
+  {
+    "code":"114 36",
+    "location":"Stockholm",
+    "population":598
+  },
+  {
+    "code":"114 37",
+    "location":"Stockholm",
+    "population":813
+  },
+  {
+    "code":"114 38",
+    "location":"Stockholm",
+    "population":961
+  },
+  {
+    "code":"114 39",
+    "location":"Stockholm",
+    "population":360
+  },
+  {
+    "code":"114 40",
+    "location":"Stockholm",
+    "population":674
+  },
+  {
+    "code":"114 41",
+    "location":"Stockholm",
+    "population":780
+  },
+  {
+    "code":"114 42",
+    "location":"Stockholm",
+    "population":662
+  },
+  {
+    "code":"114 43",
+    "location":"Stockholm",
+    "population":580
+  },
+  {
+    "code":"114 44",
+    "location":"Stockholm",
+    "population":958
+  },
+  {
+    "code":"114 45",
+    "location":"Stockholm",
+    "population":726
+  },
+  {
+    "code":"114 46",
+    "location":"Stockholm",
+    "population":336
+  },
+  {
+    "code":"114 47",
+    "location":"Stockholm",
+    "population":787
+  },
+  {
+    "code":"114 48",
+    "location":"Stockholm",
+    "population":710
+  },
+  {
+    "code":"114 49",
+    "location":"Stockholm",
+    "population":760
+  },
+  {
+    "code":"114 50",
+    "location":"Stockholm",
+    "population":903
+  },
+  {
+    "code":"114 51",
+    "location":"Stockholm",
+    "population":661
+  },
+  {
+    "code":"114 52",
+    "location":"Stockholm",
+    "population":833
+  },
+  {
+    "code":"114 53",
+    "location":"Stockholm",
+    "population":1147
+  },
+  {
+    "code":"114 54",
+    "location":"Stockholm",
+    "population":974
+  },
+  {
+    "code":"114 55",
+    "location":"Stockholm",
+    "population":986
+  },
+  {
+    "code":"114 56",
+    "location":"Stockholm",
+    "population":883
+  },
+  {
+    "code":"114 57",
+    "location":"Stockholm",
+    "population":981
+  },
+  {
+    "code":"114 58",
+    "location":"Stockholm",
+    "population":964
+  },
+  {
+    "code":"114 59",
+    "location":"Stockholm",
+    "population":1453
+  },
+  {
+    "code":"114 60",
+    "location":"Stockholm",
+    "population":1220
+  },
+  {
+    "code":"115 20",
+    "location":"Stockholm",
+    "population":761
+  },
+  {
+    "code":"115 21",
+    "location":"Stockholm",
+    "population":812
+  },
+  {
+    "code":"115 22",
+    "location":"Stockholm",
+    "population":1399
+  },
+  {
+    "code":"115 23",
+    "location":"Stockholm",
+    "population":1356
+  },
+  {
+    "code":"115 24",
+    "location":"Stockholm",
+    "population":1623
+  },
+  {
+    "code":"115 25",
+    "location":"Stockholm",
+    "population":62
+  },
+  {
+    "code":"115 26",
+    "location":"Stockholm",
+    "population":1370
+  },
+  {
+    "code":"115 27",
+    "location":"Stockholm",
+    "population":981
+  },
+  {
+    "code":"115 28",
+    "location":"Stockholm",
+    "population":1791
+  },
+  {
+    "code":"115 29",
+    "location":"Stockholm",
+    "population":939
+  },
+  {
+    "code":"115 30",
+    "location":"Stockholm",
+    "population":1421
+  },
+  {
+    "code":"115 31",
+    "location":"Stockholm",
+    "population":877
+  },
+  {
+    "code":"115 32",
+    "location":"Stockholm",
+    "population":800
+  },
+  {
+    "code":"115 33",
+    "location":"Stockholm",
+    "population":1073
+  },
+  {
+    "code":"115 34",
+    "location":"Stockholm",
+    "population":1240
+  },
+  {
+    "code":"115 35",
+    "location":"Stockholm",
+    "population":882
+  },
+  {
+    "code":"115 36",
+    "location":"Stockholm",
+    "population":803
+  },
+  {
+    "code":"115 37",
+    "location":"Stockholm",
+    "population":971
+  },
+  {
+    "code":"115 38",
+    "location":"Stockholm",
+    "population":1447
+  },
+  {
+    "code":"115 39",
+    "location":"Stockholm",
+    "population":914
+  },
+  {
+    "code":"115 40",
+    "location":"Stockholm",
+    "population":1144
+  },
+  {
+    "code":"115 41",
+    "location":"Stockholm",
+    "population":4
+  },
+  {
+    "code":"115 42",
+    "location":"Stockholm",
+    "population":1448
+  },
+  {
+    "code":"115 43",
+    "location":"Stockholm",
+    "population":806
+  },
+  {
+    "code":"115 45",
+    "location":"Stockholm",
+    "population":78
+  },
+  {
+    "code":"115 50",
+    "location":"Stockholm",
+    "population":1946
+  },
+  {
+    "code":"115 51",
+    "location":"Stockholm",
+    "population":37
+  },
+  {
+    "code":"115 53",
+    "location":"Stockholm",
+    "population":1124
+  },
+  {
+    "code":"115 57",
+    "location":"Stockholm",
+    "population":1247
+  },
+  {
+    "code":"115 58",
+    "location":"Stockholm",
+    "population":751
+  },
+  {
+    "code":"115 59",
+    "location":"Stockholm",
+    "population":1038
+  },
+  {
+    "code":"116 20",
+    "location":"Stockholm",
+    "population":1332
+  },
+  {
+    "code":"116 21",
+    "location":"Stockholm",
+    "population":1139
+  },
+  {
+    "code":"116 22",
+    "location":"Stockholm",
+    "population":1488
+  },
+  {
+    "code":"116 23",
+    "location":"Stockholm",
+    "population":861
+  },
+  {
+    "code":"116 24",
+    "location":"Stockholm",
+    "population":1150
+  },
+  {
+    "code":"116 25",
+    "location":"Stockholm",
+    "population":1420
+  },
+  {
+    "code":"116 28",
+    "location":"Stockholm",
+    "population":987
+  },
+  {
+    "code":"116 29",
+    "location":"Stockholm",
+    "population":1025
+  },
+  {
+    "code":"116 30",
+    "location":"Stockholm",
+    "population":1180
+  },
+  {
+    "code":"116 31",
+    "location":"Stockholm",
+    "population":1348
+  },
+  {
+    "code":"116 32",
+    "location":"Stockholm",
+    "population":1343
+  },
+  {
+    "code":"116 33",
+    "location":"Stockholm",
+    "population":1466
+  },
+  {
+    "code":"116 34",
+    "location":"Stockholm",
+    "population":1628
+  },
+  {
+    "code":"116 35",
+    "location":"Stockholm",
+    "population":1245
+  },
+  {
+    "code":"116 36",
+    "location":"Stockholm",
+    "population":1247
+  },
+  {
+    "code":"116 37",
+    "location":"Stockholm",
+    "population":902
+  },
+  {
+    "code":"116 38",
+    "location":"Stockholm",
+    "population":1089
+  },
+  {
+    "code":"116 39",
+    "location":"Stockholm",
+    "population":1222
+  },
+  {
+    "code":"116 40",
+    "location":"Stockholm",
+    "population":1461
+  },
+  {
+    "code":"116 41",
+    "location":"Stockholm",
+    "population":1340
+  },
+  {
+    "code":"116 42",
+    "location":"Stockholm",
+    "population":1305
+  },
+  {
+    "code":"116 43",
+    "location":"Stockholm",
+    "population":1315
+  },
+  {
+    "code":"116 44",
+    "location":"Stockholm",
+    "population":542
+  },
+  {
+    "code":"116 45",
+    "location":"Stockholm",
+    "population":28
+  },
+  {
+    "code":"116 46",
+    "location":"Stockholm",
+    "population":999
+  },
+  {
+    "code":"116 47",
+    "location":"Stockholm",
+    "population":1248
+  },
+  {
+    "code":"116 48",
+    "location":"Stockholm",
+    "population":876
+  },
+  {
+    "code":"116 61",
+    "location":"Stockholm",
+    "population":956
+  },
+  {
+    "code":"116 62",
+    "location":"Stockholm",
+    "population":925
+  },
+  {
+    "code":"116 63",
+    "location":"Stockholm",
+    "population":1289
+  },
+  {
+    "code":"116 64",
+    "location":"Stockholm",
+    "population":1362
+  },
+  {
+    "code":"116 65",
+    "location":"Stockholm",
+    "population":1190
+  },
+  {
+    "code":"116 66",
+    "location":"Stockholm",
+    "population":951
+  },
+  {
+    "code":"116 67",
+    "location":"Stockholm",
+    "population":1590
+  },
+  {
+    "code":"116 68",
+    "location":"Stockholm",
+    "population":1288
+  },
+  {
+    "code":"117 26",
+    "location":"Stockholm",
+    "population":1530
+  },
+  {
+    "code":"117 27",
+    "location":"Stockholm",
+    "population":1293
+  },
+  {
+    "code":"117 28",
+    "location":"Stockholm",
+    "population":1362
+  },
+  {
+    "code":"117 29",
+    "location":"Stockholm",
+    "population":1059
+  },
+  {
+    "code":"117 30",
+    "location":"Stockholm",
+    "population":1243
+  },
+  {
+    "code":"117 31",
+    "location":"Stockholm",
+    "population":982
+  },
+  {
+    "code":"117 32",
+    "location":"Stockholm",
+    "population":1576
+  },
+  {
+    "code":"117 33",
+    "location":"Stockholm",
+    "population":1192
+  },
+  {
+    "code":"117 34",
+    "location":"Stockholm",
+    "population":1400
+  },
+  {
+    "code":"117 35",
+    "location":"Stockholm",
+    "population":591
+  },
+  {
+    "code":"117 36",
+    "location":"Stockholm",
+    "population":1196
+  },
+  {
+    "code":"117 37",
+    "location":"Stockholm",
+    "population":1157
+  },
+  {
+    "code":"117 38",
+    "location":"Stockholm",
+    "population":1187
+  },
+  {
+    "code":"117 39",
+    "location":"Stockholm",
+    "population":1008
+  },
+  {
+    "code":"117 40",
+    "location":"Stockholm",
+    "population":1133
+  },
+  {
+    "code":"117 41",
+    "location":"Stockholm",
+    "population":2449
+  },
+  {
+    "code":"117 43",
+    "location":"Stockholm",
+    "population":14
+  },
+  {
+    "code":"117 50",
+    "location":"Stockholm",
+    "population":1160
+  },
+  {
+    "code":"117 56",
+    "location":"Stockholm",
+    "population":702
+  },
+  {
+    "code":"117 57",
+    "location":"Stockholm",
+    "population":90
+  },
+  {
+    "code":"117 58",
+    "location":"Stockholm",
+    "population":1666
+  },
+  {
+    "code":"117 59",
+    "location":"Stockholm",
+    "population":1714
+  },
+  {
+    "code":"117 60",
+    "location":"Stockholm",
+    "population":1031
+  },
+  {
+    "code":"117 61",
+    "location":"Stockholm",
+    "population":1442
+  },
+  {
+    "code":"117 62",
+    "location":"Stockholm",
+    "population":1138
+  },
+  {
+    "code":"117 63",
+    "location":"Stockholm",
+    "population":1066
+  },
+  {
+    "code":"117 64",
+    "location":"Stockholm",
+    "population":1689
+  },
+  {
+    "code":"117 65",
+    "location":"Stockholm",
+    "population":1498
+  },
+  {
+    "code":"117 66",
+    "location":"Stockholm",
+    "population":1031
+  },
+  {
+    "code":"117 67",
+    "location":"Stockholm",
+    "population":2220
+  },
+  {
+    "code":"117 68",
+    "location":"Stockholm",
+    "population":1574
+  },
+  {
+    "code":"117 69",
+    "location":"Stockholm",
+    "population":1735
+  },
+  {
+    "code":"117 75",
+    "location":"Stockholm",
+    "population":3
+  },
+  {
+    "code":"118 20",
+    "location":"Stockholm",
+    "population":752
+  },
+  {
+    "code":"118 21",
+    "location":"Stockholm",
+    "population":1010
+  },
+  {
+    "code":"118 22",
+    "location":"Stockholm",
+    "population":789
+  },
+  {
+    "code":"118 23",
+    "location":"Stockholm",
+    "population":1439
+  },
+  {
+    "code":"118 24",
+    "location":"Stockholm",
+    "population":1015
+  },
+  {
+    "code":"118 25",
+    "location":"Stockholm",
+    "population":1209
+  },
+  {
+    "code":"118 26",
+    "location":"Stockholm",
+    "population":1050
+  },
+  {
+    "code":"118 27",
+    "location":"Stockholm",
+    "population":1429
+  },
+  {
+    "code":"118 28",
+    "location":"Stockholm",
+    "population":1692
+  },
+  {
+    "code":"118 29",
+    "location":"Stockholm",
+    "population":1625
+  },
+  {
+    "code":"118 30",
+    "location":"Stockholm",
+    "population":1022
+  },
+  {
+    "code":"118 42",
+    "location":"Stockholm",
+    "population":1318
+  },
+  {
+    "code":"118 46",
+    "location":"Stockholm",
+    "population":1379
+  },
+  {
+    "code":"118 47",
+    "location":"Stockholm",
+    "population":1114
+  },
+  {
+    "code":"118 48",
+    "location":"Stockholm",
+    "population":1139
+  },
+  {
+    "code":"118 49",
+    "location":"Stockholm",
+    "population":1268
+  },
+  {
+    "code":"118 50",
+    "location":"Stockholm",
+    "population":1548
+  },
+  {
+    "code":"118 51",
+    "location":"Stockholm",
+    "population":1518
+  },
+  {
+    "code":"118 52",
+    "location":"Stockholm",
+    "population":1449
+  },
+  {
+    "code":"118 53",
+    "location":"Stockholm",
+    "population":823
+  },
+  {
+    "code":"118 54",
+    "location":"Stockholm",
+    "population":1680
+  },
+  {
+    "code":"118 55",
+    "location":"Stockholm",
+    "population":636
+  },
+  {
+    "code":"118 56",
+    "location":"Stockholm",
+    "population":1441
+  },
+  {
+    "code":"118 57",
+    "location":"Stockholm",
+    "population":1285
+  },
+  {
+    "code":"118 58",
+    "location":"Stockholm",
+    "population":1114
+  },
+  {
+    "code":"118 59",
+    "location":"Stockholm",
+    "population":1491
+  },
+  {
+    "code":"118 60",
+    "location":"Stockholm",
+    "population":752
+  },
+  {
+    "code":"118 61",
+    "location":"Stockholm",
+    "population":1435
+  },
+  {
+    "code":"118 62",
+    "location":"Stockholm",
+    "population":1185
+  },
+  {
+    "code":"118 63",
+    "location":"Stockholm",
+    "population":1809
+  },
+  {
+    "code":"118 64",
+    "location":"Stockholm",
+    "population":1163
+  },
+  {
+    "code":"118 65",
+    "location":"Stockholm",
+    "population":980
+  },
+  {
+    "code":"118 66",
+    "location":"Stockholm",
+    "population":857
+  },
+  {
+    "code":"118 67",
+    "location":"Stockholm",
+    "population":1093
+  },
+  {
+    "code":"118 69",
+    "location":"Stockholm",
+    "population":1048
+  },
+  {
+    "code":"120 30",
+    "location":"Stockholm",
+    "population":44
+  },
+  {
+    "code":"120 31",
+    "location":"Stockholm",
+    "population":172
+  },
+  {
+    "code":"120 38",
+    "location":"�Rsta",
+    "population":1494
+  },
+  {
+    "code":"120 39",
+    "location":"�Rsta",
+    "population":1373
+  },
+  {
+    "code":"120 40",
+    "location":"�Rsta",
+    "population":4
+  },
+  {
+    "code":"120 44",
+    "location":"�Rsta",
+    "population":52
+  },
+  {
+    "code":"120 47",
+    "location":"Enskede G�rd",
+    "population":1081
+  },
+  {
+    "code":"120 48",
+    "location":"Enskede G�rd",
+    "population":1481
+  },
+  {
+    "code":"120 50",
+    "location":"�Rsta",
+    "population":967
+  },
+  {
+    "code":"120 51",
+    "location":"�Rsta",
+    "population":1458
+  },
+  {
+    "code":"120 52",
+    "location":"�Rsta",
+    "population":1362
+  },
+  {
+    "code":"120 53",
+    "location":"�Rsta",
+    "population":1438
+  },
+  {
+    "code":"120 54",
+    "location":"�Rsta",
+    "population":1407
+  },
+  {
+    "code":"120 55",
+    "location":"�Rsta",
+    "population":749
+  },
+  {
+    "code":"120 56",
+    "location":"�Rsta",
+    "population":2174
+  },
+  {
+    "code":"120 57",
+    "location":"�Rsta",
+    "population":1963
+  },
+  {
+    "code":"120 58",
+    "location":"�Rsta",
+    "population":1055
+  },
+  {
+    "code":"120 59",
+    "location":"�Rsta",
+    "population":759
+  },
+  {
+    "code":"120 60",
+    "location":"�Rsta",
+    "population":1450
+  },
+  {
+    "code":"120 61",
+    "location":"Stockholm",
+    "population":1620
+  },
+  {
+    "code":"120 62",
+    "location":"Stockholm",
+    "population":672
+  },
+  {
+    "code":"120 63",
+    "location":"Stockholm",
+    "population":1492
+  },
+  {
+    "code":"120 64",
+    "location":"Stockholm",
+    "population":1673
+  },
+  {
+    "code":"120 65",
+    "location":"Stockholm",
+    "population":1869
+  },
+  {
+    "code":"120 66",
+    "location":"Stockholm",
+    "population":1676
+  },
+  {
+    "code":"120 67",
+    "location":"Stockholm",
+    "population":1371
+  },
+  {
+    "code":"120 68",
+    "location":"Stockholm",
+    "population":1543
+  },
+  {
+    "code":"120 69",
+    "location":"Stockholm",
+    "population":701
+  },
+  {
+    "code":"120 70",
+    "location":"Stockholm",
+    "population":1417
+  },
+  {
+    "code":"120 71",
+    "location":"Stockholm",
+    "population":1724
+  },
+  {
+    "code":"120 79",
+    "location":"Stockholm",
+    "population":369
+  },
+  {
+    "code":"121 30",
+    "location":"Enskededalen",
+    "population":2274
+  },
+  {
+    "code":"121 31",
+    "location":"Enskededalen",
+    "population":1877
+  },
+  {
+    "code":"121 32",
+    "location":"Enskededalen",
+    "population":797
+  },
+  {
+    "code":"121 33",
+    "location":"Enskededalen",
+    "population":1802
+  },
+  {
+    "code":"121 34",
+    "location":"Enskededalen",
+    "population":1799
+  },
+  {
+    "code":"121 35",
+    "location":"Johanneshov",
+    "population":577
+  },
+  {
+    "code":"121 36",
+    "location":"Johanneshov",
+    "population":1277
+  },
+  {
+    "code":"121 37",
+    "location":"Johanneshov",
+    "population":1077
+  },
+  {
+    "code":"121 38",
+    "location":"Johanneshov",
+    "population":1414
+  },
+  {
+    "code":"121 39",
+    "location":"Johanneshov",
+    "population":1274
+  },
+  {
+    "code":"121 40",
+    "location":"Johanneshov",
+    "population":1037
+  },
+  {
+    "code":"121 43",
+    "location":"Johanneshov",
+    "population":1196
+  },
+  {
+    "code":"121 44",
+    "location":"Johanneshov",
+    "population":895
+  },
+  {
+    "code":"121 45",
+    "location":"Johanneshov",
+    "population":1366
+  },
+  {
+    "code":"121 46",
+    "location":"Johanneshov",
+    "population":1379
+  },
+  {
+    "code":"121 47",
+    "location":"Johanneshov",
+    "population":1015
+  },
+  {
+    "code":"121 48",
+    "location":"Johanneshov",
+    "population":1183
+  },
+  {
+    "code":"121 49",
+    "location":"Johanneshov",
+    "population":1457
+  },
+  {
+    "code":"121 50",
+    "location":"Johanneshov",
+    "population":1216
+  },
+  {
+    "code":"121 51",
+    "location":"Johanneshov",
+    "population":1128
+  },
+  {
+    "code":"121 52",
+    "location":"Johanneshov",
+    "population":1622
+  },
+  {
+    "code":"121 53",
+    "location":"Johanneshov",
+    "population":1435
+  },
+  {
+    "code":"121 54",
+    "location":"Johanneshov",
+    "population":1680
+  },
+  {
+    "code":"121 55",
+    "location":"Johanneshov",
+    "population":1681
+  },
+  {
+    "code":"121 56",
+    "location":"Johanneshov",
+    "population":1165
+  },
+  {
+    "code":"121 62",
+    "location":"Johanneshov",
+    "population":3
+  },
+  {
+    "code":"121 63",
+    "location":"Johanneshov",
+    "population":10
+  },
+  {
+    "code":"121 77",
+    "location":"Johanneshov",
+    "population":5
+  },
+  {
+    "code":"122 31",
+    "location":"Enskede",
+    "population":310
+  },
+  {
+    "code":"122 32",
+    "location":"Enskede",
+    "population":1118
+  },
+  {
+    "code":"122 33",
+    "location":"Enskede",
+    "population":192
+  },
+  {
+    "code":"122 34",
+    "location":"Enskede",
+    "population":1037
+  },
+  {
+    "code":"122 37",
+    "location":"Enskede",
+    "population":1506
+  },
+  {
+    "code":"122 38",
+    "location":"Enskede",
+    "population":1062
+  },
+  {
+    "code":"122 39",
+    "location":"Enskede",
+    "population":1010
+  },
+  {
+    "code":"122 40",
+    "location":"Enskede",
+    "population":1534
+  },
+  {
+    "code":"122 41",
+    "location":"Enskede",
+    "population":1562
+  },
+  {
+    "code":"122 42",
+    "location":"Enskede",
+    "population":2064
+  },
+  {
+    "code":"122 43",
+    "location":"Enskede",
+    "population":778
+  },
+  {
+    "code":"122 44",
+    "location":"Enskede",
+    "population":1585
+  },
+  {
+    "code":"122 45",
+    "location":"Enskede",
+    "population":1241
+  },
+  {
+    "code":"122 46",
+    "location":"Enskede",
+    "population":1442
+  },
+  {
+    "code":"122 47",
+    "location":"Enskede",
+    "population":1344
+  },
+  {
+    "code":"122 48",
+    "location":"Enskede",
+    "population":2079
+  },
+  {
+    "code":"122 49",
+    "location":"Enskede",
+    "population":930
+  },
+  {
+    "code":"122 60",
+    "location":"Enskede",
+    "population":1230
+  },
+  {
+    "code":"122 62",
+    "location":"Enskede",
+    "population":1015
+  },
+  {
+    "code":"122 63",
+    "location":"Enskede",
+    "population":1604
+  },
+  {
+    "code":"122 64",
+    "location":"Enskede",
+    "population":1380
+  },
+  {
+    "code":"122 65",
+    "location":"Enskede",
+    "population":458
+  },
+  {
+    "code":"122 66",
+    "location":"Enskede",
+    "population":1070
+  },
+  {
+    "code":"123 32",
+    "location":"Farsta",
+    "population":1456
+  },
+  {
+    "code":"123 33",
+    "location":"Farsta",
+    "population":2292
+  },
+  {
+    "code":"123 34",
+    "location":"Farsta",
+    "population":809
+  },
+  {
+    "code":"123 41",
+    "location":"Farsta",
+    "population":1823
+  },
+  {
+    "code":"123 42",
+    "location":"Farsta",
+    "population":1824
+  },
+  {
+    "code":"123 43",
+    "location":"Farsta",
+    "population":1200
+  },
+  {
+    "code":"123 44",
+    "location":"Farsta",
+    "population":1913
+  },
+  {
+    "code":"123 46",
+    "location":"Farsta",
+    "population":1324
+  },
+  {
+    "code":"123 47",
+    "location":"Farsta",
+    "population":437
+  },
+  {
+    "code":"123 48",
+    "location":"Farsta",
+    "population":1606
+  },
+  {
+    "code":"123 49",
+    "location":"Farsta",
+    "population":2874
+  },
+  {
+    "code":"123 50",
+    "location":"Farsta",
+    "population":905
+  },
+  {
+    "code":"123 52",
+    "location":"Farsta",
+    "population":1256
+  },
+  {
+    "code":"123 55",
+    "location":"Farsta",
+    "population":1274
+  },
+  {
+    "code":"123 56",
+    "location":"Farsta",
+    "population":826
+  },
+  {
+    "code":"123 57",
+    "location":"Farsta",
+    "population":1749
+  },
+  {
+    "code":"123 58",
+    "location":"Farsta",
+    "population":1921
+  },
+  {
+    "code":"123 59",
+    "location":"Farsta",
+    "population":2040
+  },
+  {
+    "code":"123 60",
+    "location":"Farsta",
+    "population":1640
+  },
+  {
+    "code":"123 63",
+    "location":"Farsta",
+    "population":805
+  },
+  {
+    "code":"123 71",
+    "location":"Farsta",
+    "population":1551
+  },
+  {
+    "code":"123 72",
+    "location":"Farsta",
+    "population":1387
+  },
+  {
+    "code":"123 73",
+    "location":"Farsta",
+    "population":1151
+  },
+  {
+    "code":"124 30",
+    "location":"Bandhagen",
+    "population":626
+  },
+  {
+    "code":"124 31",
+    "location":"Bandhagen",
+    "population":1705
+  },
+  {
+    "code":"124 32",
+    "location":"Bandhagen",
+    "population":2076
+  },
+  {
+    "code":"124 33",
+    "location":"Bandhagen",
+    "population":1269
+  },
+  {
+    "code":"124 50",
+    "location":"Bandhagen",
+    "population":1065
+  },
+  {
+    "code":"124 51",
+    "location":"Bandhagen",
+    "population":739
+  },
+  {
+    "code":"124 52",
+    "location":"Bandhagen",
+    "population":1058
+  },
+  {
+    "code":"124 53",
+    "location":"Bandhagen",
+    "population":1297
+  },
+  {
+    "code":"124 54",
+    "location":"Bandhagen",
+    "population":484
+  },
+  {
+    "code":"124 55",
+    "location":"Bandhagen",
+    "population":1314
+  },
+  {
+    "code":"124 56",
+    "location":"Bandhagen",
+    "population":888
+  },
+  {
+    "code":"124 57",
+    "location":"Bandhagen",
+    "population":1275
+  },
+  {
+    "code":"124 58",
+    "location":"Bandhagen",
+    "population":1617
+  },
+  {
+    "code":"124 59",
+    "location":"Bandhagen",
+    "population":15
+  },
+  {
+    "code":"124 61",
+    "location":"Bandhagen",
+    "population":1598
+  },
+  {
+    "code":"124 62",
+    "location":"Bandhagen",
+    "population":1839
+  },
+  {
+    "code":"124 63",
+    "location":"Bandhagen",
+    "population":1089
+  },
+  {
+    "code":"124 64",
+    "location":"Bandhagen",
+    "population":1774
+  },
+  {
+    "code":"124 65",
+    "location":"Bandhagen",
+    "population":1072
+  },
+  {
+    "code":"124 66",
+    "location":"Bandhagen",
+    "population":1366
+  },
+  {
+    "code":"124 67",
+    "location":"Bandhagen",
+    "population":1608
+  },
+  {
+    "code":"124 70",
+    "location":"Bandhagen",
+    "population":1761
+  },
+  {
+    "code":"124 71",
+    "location":"Bandhagen",
+    "population":2005
+  },
+  {
+    "code":"124 72",
+    "location":"Bandhagen",
+    "population":1119
+  },
+  {
+    "code":"124 73",
+    "location":"Bandhagen",
+    "population":1526
+  },
+  {
+    "code":"124 74",
+    "location":"Bandhagen",
+    "population":1277
+  },
+  {
+    "code":"124 75",
+    "location":"Bandhagen",
+    "population":1461
+  },
+  {
+    "code":"124 76",
+    "location":"Bandhagen",
+    "population":943
+  },
+  {
+    "code":"125 30",
+    "location":"�Lvsj�",
+    "population":988
+  },
+  {
+    "code":"125 31",
+    "location":"�Lvsj�",
+    "population":241
+  },
+  {
+    "code":"125 32",
+    "location":"�Lvsj�",
+    "population":1279
+  },
+  {
+    "code":"125 33",
+    "location":"�Lvsj�",
+    "population":1807
+  },
+  {
+    "code":"125 34",
+    "location":"�Lvsj�",
+    "population":1372
+  },
+  {
+    "code":"125 35",
+    "location":"�Lvsj�",
+    "population":902
+  },
+  {
+    "code":"125 40",
+    "location":"�Lvsj�",
+    "population":1862
+  },
+  {
+    "code":"125 41",
+    "location":"�Lvsj�",
+    "population":1052
+  },
+  {
+    "code":"125 42",
+    "location":"�Lvsj�",
+    "population":781
+  },
+  {
+    "code":"125 43",
+    "location":"�Lvsj�",
+    "population":933
+  },
+  {
+    "code":"125 44",
+    "location":"�Lvsj�",
+    "population":1420
+  },
+  {
+    "code":"125 45",
+    "location":"�Lvsj�",
+    "population":431
+  },
+  {
+    "code":"125 46",
+    "location":"�Lvsj�",
+    "population":239
+  },
+  {
+    "code":"125 51",
+    "location":"�Lvsj�",
+    "population":891
+  },
+  {
+    "code":"125 52",
+    "location":"�Lvsj�",
+    "population":905
+  },
+  {
+    "code":"125 53",
+    "location":"�Lvsj�",
+    "population":982
+  },
+  {
+    "code":"125 54",
+    "location":"�Lvsj�",
+    "population":947
+  },
+  {
+    "code":"125 55",
+    "location":"�Lvsj�",
+    "population":850
+  },
+  {
+    "code":"125 56",
+    "location":"�Lvsj�",
+    "population":1098
+  },
+  {
+    "code":"125 57",
+    "location":"�Lvsj�",
+    "population":941
+  },
+  {
+    "code":"125 58",
+    "location":"�Lvsj�",
+    "population":938
+  },
+  {
+    "code":"125 59",
+    "location":"�Lvsj�",
+    "population":1045
+  },
+  {
+    "code":"125 60",
+    "location":"�Lvsj�",
+    "population":807
+  },
+  {
+    "code":"125 70",
+    "location":"�Lvsj�",
+    "population":721
+  },
+  {
+    "code":"125 71",
+    "location":"�Lvsj�",
+    "population":1234
+  },
+  {
+    "code":"125 72",
+    "location":"�Lvsj�",
+    "population":1758
+  },
+  {
+    "code":"125 73",
+    "location":"�Lvsj�",
+    "population":1909
+  },
+  {
+    "code":"125 74",
+    "location":"�Lvsj�",
+    "population":1898
+  },
+  {
+    "code":"126 26",
+    "location":"H�gersten",
+    "population":496
+  },
+  {
+    "code":"126 28",
+    "location":"H�gersten",
+    "population":1161
+  },
+  {
+    "code":"126 29",
+    "location":"H�gersten",
+    "population":270
+  },
+  {
+    "code":"126 30",
+    "location":"H�gersten",
+    "population":80
+  },
+  {
+    "code":"126 31",
+    "location":"H�gersten",
+    "population":1178
+  },
+  {
+    "code":"126 32",
+    "location":"H�gersten",
+    "population":1259
+  },
+  {
+    "code":"126 33",
+    "location":"H�gersten",
+    "population":961
+  },
+  {
+    "code":"126 34",
+    "location":"H�gersten",
+    "population":1370
+  },
+  {
+    "code":"126 35",
+    "location":"H�gersten",
+    "population":1568
+  },
+  {
+    "code":"126 36",
+    "location":"H�gersten",
+    "population":1088
+  },
+  {
+    "code":"126 37",
+    "location":"H�gersten",
+    "population":1841
+  },
+  {
+    "code":"126 38",
+    "location":"H�gersten",
+    "population":1680
+  },
+  {
+    "code":"126 39",
+    "location":"H�gersten",
+    "population":2115
+  },
+  {
+    "code":"126 40",
+    "location":"H�gersten",
+    "population":1137
+  },
+  {
+    "code":"126 41",
+    "location":"H�gersten",
+    "population":564
+  },
+  {
+    "code":"126 42",
+    "location":"H�gersten",
+    "population":348
+  },
+  {
+    "code":"126 47",
+    "location":"H�gersten",
+    "population":1330
+  },
+  {
+    "code":"126 48",
+    "location":"H�gersten",
+    "population":1149
+  },
+  {
+    "code":"126 49",
+    "location":"H�gersten",
+    "population":1373
+  },
+  {
+    "code":"126 50",
+    "location":"H�gersten",
+    "population":1678
+  },
+  {
+    "code":"126 51",
+    "location":"H�gersten",
+    "population":1656
+  },
+  {
+    "code":"126 52",
+    "location":"H�gersten",
+    "population":1541
+  },
+  {
+    "code":"126 53",
+    "location":"H�gersten",
+    "population":1657
+  },
+  {
+    "code":"126 54",
+    "location":"H�gersten",
+    "population":1044
+  },
+  {
+    "code":"126 55",
+    "location":"H�gersten",
+    "population":805
+  },
+  {
+    "code":"126 77",
+    "location":"H�gersten",
+    "population":666
+  },
+  {
+    "code":"126 78",
+    "location":"H�gersten",
+    "population":1223
+  },
+  {
+    "code":"126 79",
+    "location":"H�gersten",
+    "population":537
+  },
+  {
+    "code":"127 30",
+    "location":"Sk�rholmen",
+    "population":358
+  },
+  {
+    "code":"127 31",
+    "location":"Sk�rholmen",
+    "population":1911
+  },
+  {
+    "code":"127 32",
+    "location":"Sk�rholmen",
+    "population":2714
+  },
+  {
+    "code":"127 33",
+    "location":"Sk�rholmen",
+    "population":432
+  },
+  {
+    "code":"127 34",
+    "location":"Sk�rholmen",
+    "population":2261
+  },
+  {
+    "code":"127 36",
+    "location":"Sk�rholmen",
+    "population":2038
+  },
+  {
+    "code":"127 37",
+    "location":"Sk�rholmen",
+    "population":2681
+  },
+  {
+    "code":"127 38",
+    "location":"Sk�rholmen",
+    "population":1986
+  },
+  {
+    "code":"127 39",
+    "location":"Sk�rholmen",
+    "population":1
+  },
+  {
+    "code":"127 40",
+    "location":"Sk�rholmen",
+    "population":1787
+  },
+  {
+    "code":"127 41",
+    "location":"Sk�rholmen",
+    "population":1745
+  },
+  {
+    "code":"127 42",
+    "location":"Sk�rholmen",
+    "population":1964
+  },
+  {
+    "code":"127 43",
+    "location":"Sk�rholmen",
+    "population":2303
+  },
+  {
+    "code":"127 44",
+    "location":"Sk�rholmen",
+    "population":1806
+  },
+  {
+    "code":"127 45",
+    "location":"Sk�rholmen",
+    "population":2807
+  },
+  {
+    "code":"127 46",
+    "location":"Sk�rholmen",
+    "population":2469
+  },
+  {
+    "code":"127 47",
+    "location":"Sk�rholmen",
+    "population":1669
+  },
+  {
+    "code":"127 48",
+    "location":"Sk�rholmen",
+    "population":323
+  },
+  {
+    "code":"127 49",
+    "location":"Sk�rholmen",
+    "population":1061
+  },
+  {
+    "code":"127 55",
+    "location":"Sk�rholmen",
+    "population":404
+  },
+  {
+    "code":"127 61",
+    "location":"Sk�rholmen",
+    "population":2488
+  },
+  {
+    "code":"128 30",
+    "location":"Skarpn�ck",
+    "population":169
+  },
+  {
+    "code":"128 31",
+    "location":"Skarpn�ck",
+    "population":1082
+  },
+  {
+    "code":"128 32",
+    "location":"Skarpn�ck",
+    "population":1404
+  },
+  {
+    "code":"128 33",
+    "location":"Skarpn�ck",
+    "population":1916
+  },
+  {
+    "code":"128 34",
+    "location":"Skarpn�ck",
+    "population":1422
+  },
+  {
+    "code":"128 35",
+    "location":"Skarpn�ck",
+    "population":1823
+  },
+  {
+    "code":"128 36",
+    "location":"Skarpn�ck",
+    "population":1187
+  },
+  {
+    "code":"128 38",
+    "location":"Skarpn�ck",
+    "population":1632
+  },
+  {
+    "code":"128 39",
+    "location":"Skarpn�ck",
+    "population":456
+  },
+  {
+    "code":"128 41",
+    "location":"Bagarmossen",
+    "population":1326
+  },
+  {
+    "code":"128 42",
+    "location":"Bagarmossen",
+    "population":839
+  },
+  {
+    "code":"128 43",
+    "location":"Bagarmossen",
+    "population":1167
+  },
+  {
+    "code":"128 44",
+    "location":"Bagarmossen",
+    "population":973
+  },
+  {
+    "code":"128 45",
+    "location":"Bagarmossen",
+    "population":1837
+  },
+  {
+    "code":"128 46",
+    "location":"Bagarmossen",
+    "population":1209
+  },
+  {
+    "code":"128 47",
+    "location":"Bagarmossen",
+    "population":2193
+  },
+  {
+    "code":"128 48",
+    "location":"Bagarmossen",
+    "population":1742
+  },
+  {
+    "code":"128 62",
+    "location":"Sk�ndal",
+    "population":1004
+  },
+  {
+    "code":"128 63",
+    "location":"Sk�ndal",
+    "population":303
+  },
+  {
+    "code":"128 64",
+    "location":"Sk�ndal",
+    "population":720
+  },
+  {
+    "code":"128 65",
+    "location":"Sk�ndal",
+    "population":73
+  },
+  {
+    "code":"128 66",
+    "location":"Sk�ndal",
+    "population":2048
+  },
+  {
+    "code":"128 67",
+    "location":"Sk�ndal",
+    "population":1214
+  },
+  {
+    "code":"128 68",
+    "location":"Sk�ndal",
+    "population":1699
+  },
+  {
+    "code":"128 69",
+    "location":"Sk�ndal",
+    "population":1031
+  },
+  {
+    "code":"129 30",
+    "location":"H�gersten",
+    "population":998
+  },
+  {
+    "code":"129 31",
+    "location":"H�gersten",
+    "population":1496
+  },
+  {
+    "code":"129 32",
+    "location":"H�gersten",
+    "population":1780
+  },
+  {
+    "code":"129 33",
+    "location":"H�gersten",
+    "population":1411
+  },
+  {
+    "code":"129 34",
+    "location":"H�gersten",
+    "population":1408
+  },
+  {
+    "code":"129 35",
+    "location":"H�gersten",
+    "population":1654
+  },
+  {
+    "code":"129 36",
+    "location":"H�gersten",
+    "population":1225
+  },
+  {
+    "code":"129 37",
+    "location":"H�gersten",
+    "population":1216
+  },
+  {
+    "code":"129 38",
+    "location":"H�gersten",
+    "population":1116
+  },
+  {
+    "code":"129 39",
+    "location":"H�gersten",
+    "population":1188
+  },
+  {
+    "code":"129 40",
+    "location":"H�gersten",
+    "population":1418
+  },
+  {
+    "code":"129 41",
+    "location":"H�gersten",
+    "population":879
+  },
+  {
+    "code":"129 42",
+    "location":"H�gersten",
+    "population":1550
+  },
+  {
+    "code":"129 43",
+    "location":"H�gersten",
+    "population":506
+  },
+  {
+    "code":"129 44",
+    "location":"H�gersten",
+    "population":1554
+  },
+  {
+    "code":"129 45",
+    "location":"H�gersten",
+    "population":1577
+  },
+  {
+    "code":"129 46",
+    "location":"H�gersten",
+    "population":1031
+  },
+  {
+    "code":"129 47",
+    "location":"H�gersten",
+    "population":852
+  },
+  {
+    "code":"129 48",
+    "location":"H�gersten",
+    "population":1160
+  },
+  {
+    "code":"129 49",
+    "location":"H�gersten",
+    "population":2532
+  },
+  {
+    "code":"129 50",
+    "location":"H�gersten",
+    "population":1169
+  },
+  {
+    "code":"129 51",
+    "location":"H�gersten",
+    "population":1213
+  },
+  {
+    "code":"129 52",
+    "location":"H�gersten",
+    "population":1257
+  },
+  {
+    "code":"129 53",
+    "location":"H�gersten",
+    "population":1264
+  },
+  {
+    "code":"129 54",
+    "location":"H�gersten",
+    "population":1264
+  },
+  {
+    "code":"129 55",
+    "location":"H�gersten",
+    "population":1262
+  },
+  {
+    "code":"129 56",
+    "location":"H�gersten",
+    "population":463
+  },
+  {
+    "code":"130 25",
+    "location":"Ingmars�",
+    "population":158
+  },
+  {
+    "code":"130 32",
+    "location":"Grinda",
+    "population":25
+  },
+  {
+    "code":"130 33",
+    "location":"G�lln�by",
+    "population":116
+  },
+  {
+    "code":"130 34",
+    "location":"Sk�lvik",
+    "population":72
+  },
+  {
+    "code":"130 36",
+    "location":"N�md�",
+    "population":112
+  },
+  {
+    "code":"130 38",
+    "location":"Runmar�",
+    "population":264
+  },
+  {
+    "code":"130 39",
+    "location":"Sandhamn",
+    "population":89
+  },
+  {
+    "code":"130 41",
+    "location":"Sollenkroka �",
+    "population":8
+  },
+  {
+    "code":"130 42",
+    "location":"Stavsudda",
+    "population":55
+  },
+  {
+    "code":"130 43",
+    "location":"M�ja",
+    "population":257
+  },
+  {
+    "code":"130 44",
+    "location":"Har�",
+    "population":31
+  },
+  {
+    "code":"130 55",
+    "location":"Orn�",
+    "population":240
+  },
+  {
+    "code":"130 56",
+    "location":"Ut�",
+    "population":197
+  },
+  {
+    "code":"131 30",
+    "location":"Nacka",
+    "population":1
+  },
+  {
+    "code":"131 31",
+    "location":"Nacka",
+    "population":1113
+  },
+  {
+    "code":"131 32",
+    "location":"Nacka",
+    "population":1688
+  },
+  {
+    "code":"131 33",
+    "location":"Nacka",
+    "population":1372
+  },
+  {
+    "code":"131 34",
+    "location":"Nacka",
+    "population":1171
+  },
+  {
+    "code":"131 35",
+    "location":"Nacka",
+    "population":1168
+  },
+  {
+    "code":"131 36",
+    "location":"Nacka",
+    "population":1245
+  },
+  {
+    "code":"131 37",
+    "location":"Nacka",
+    "population":1413
+  },
+  {
+    "code":"131 38",
+    "location":"Nacka",
+    "population":1318
+  },
+  {
+    "code":"131 39",
+    "location":"Nacka",
+    "population":1013
+  },
+  {
+    "code":"131 40",
+    "location":"Nacka",
+    "population":1497
+  },
+  {
+    "code":"131 41",
+    "location":"Nacka",
+    "population":1572
+  },
+  {
+    "code":"131 42",
+    "location":"Nacka",
+    "population":1207
+  },
+  {
+    "code":"131 43",
+    "location":"Nacka",
+    "population":245
+  },
+  {
+    "code":"131 44",
+    "location":"Nacka",
+    "population":1225
+  },
+  {
+    "code":"131 45",
+    "location":"Nacka",
+    "population":1052
+  },
+  {
+    "code":"131 46",
+    "location":"Nacka",
+    "population":1996
+  },
+  {
+    "code":"131 47",
+    "location":"Nacka",
+    "population":2401
+  },
+  {
+    "code":"131 48",
+    "location":"Nacka",
+    "population":1901
+  },
+  {
+    "code":"131 49",
+    "location":"Nacka",
+    "population":984
+  },
+  {
+    "code":"131 50",
+    "location":"Saltsj�-duvn�s",
+    "population":2217
+  },
+  {
+    "code":"131 52",
+    "location":"Nacka Strand",
+    "population":588
+  },
+  {
+    "code":"131 53",
+    "location":"Nacka",
+    "population":477
+  },
+  {
+    "code":"131 54",
+    "location":"Nacka",
+    "population":21
+  },
+  {
+    "code":"131 55",
+    "location":"Nacka",
+    "population":301
+  },
+  {
+    "code":"131 60",
+    "location":"Nacka",
+    "population":471
+  },
+  {
+    "code":"131 61",
+    "location":"Nacka",
+    "population":936
+  },
+  {
+    "code":"131 62",
+    "location":"Nacka",
+    "population":154
+  },
+  {
+    "code":"131 65",
+    "location":"Nacka",
+    "population":1104
+  },
+  {
+    "code":"131 71",
+    "location":"Nacka",
+    "population":915
+  },
+  {
+    "code":"131 72",
+    "location":"Nacka",
+    "population":580
+  },
+  {
+    "code":"131 73",
+    "location":"Nacka",
+    "population":844
+  },
+  {
+    "code":"132 30",
+    "location":"Saltsj�-boo",
+    "population":1201
+  },
+  {
+    "code":"132 31",
+    "location":"Saltsj�-boo",
+    "population":1049
+  },
+  {
+    "code":"132 32",
+    "location":"Saltsj�-boo",
+    "population":1832
+  },
+  {
+    "code":"132 33",
+    "location":"Saltsj�-boo",
+    "population":2073
+  },
+  {
+    "code":"132 34",
+    "location":"Saltsj�-boo",
+    "population":1484
+  },
+  {
+    "code":"132 35",
+    "location":"Saltsj�-boo",
+    "population":2606
+  },
+  {
+    "code":"132 36",
+    "location":"Saltsj�-boo",
+    "population":2866
+  },
+  {
+    "code":"132 37",
+    "location":"Saltsj�-boo",
+    "population":2166
+  },
+  {
+    "code":"132 38",
+    "location":"Saltsj�-boo",
+    "population":22
+  },
+  {
+    "code":"132 39",
+    "location":"Saltsj�-boo",
+    "population":1863
+  },
+  {
+    "code":"132 40",
+    "location":"Saltsj�-boo",
+    "population":906
+  },
+  {
+    "code":"132 41",
+    "location":"Saltsj�-boo",
+    "population":804
+  },
+  {
+    "code":"132 42",
+    "location":"Saltsj�-boo",
+    "population":1254
+  },
+  {
+    "code":"132 43",
+    "location":"Saltsj�-boo",
+    "population":685
+  },
+  {
+    "code":"132 44",
+    "location":"Saltsj�-boo",
+    "population":1288
+  },
+  {
+    "code":"132 45",
+    "location":"Saltsj�-boo",
+    "population":1600
+  },
+  {
+    "code":"132 46",
+    "location":"Saltsj�-boo",
+    "population":1861
+  },
+  {
+    "code":"132 47",
+    "location":"Saltsj�-boo",
+    "population":1405
+  },
+  {
+    "code":"132 48",
+    "location":"Saltsj�-boo",
+    "population":1279
+  },
+  {
+    "code":"132 49",
+    "location":"Saltsj�-boo",
+    "population":44
+  },
+  {
+    "code":"132 52",
+    "location":"Saltsj�-boo",
+    "population":1256
+  },
+  {
+    "code":"133 31",
+    "location":"Saltsj�baden",
+    "population":889
+  },
+  {
+    "code":"133 32",
+    "location":"Saltsj�baden",
+    "population":699
+  },
+  {
+    "code":"133 33",
+    "location":"Saltsj�baden",
+    "population":1211
+  },
+  {
+    "code":"133 34",
+    "location":"Saltsj�baden",
+    "population":1272
+  },
+  {
+    "code":"133 35",
+    "location":"Saltsj�baden",
+    "population":1443
+  },
+  {
+    "code":"133 36",
+    "location":"Saltsj�baden",
+    "population":2073
+  },
+  {
+    "code":"133 37",
+    "location":"Saltsj�baden",
+    "population":826
+  },
+  {
+    "code":"133 38",
+    "location":"Saltsj�baden",
+    "population":1789
+  },
+  {
+    "code":"133 39",
+    "location":"Saltsj�baden",
+    "population":157
+  },
+  {
+    "code":"133 41",
+    "location":"Saltsj�baden",
+    "population":2067
+  },
+  {
+    "code":"133 42",
+    "location":"Saltsj�baden",
+    "population":1727
+  },
+  {
+    "code":"133 43",
+    "location":"Saltsj�baden",
+    "population":2113
+  },
+  {
+    "code":"133 44",
+    "location":"Saltsj�baden",
+    "population":1950
+  },
+  {
+    "code":"133 49",
+    "location":"Saltsj�baden",
+    "population":50
+  },
+  {
+    "code":"134 31",
+    "location":"Gustavsberg",
+    "population":1275
+  },
+  {
+    "code":"134 32",
+    "location":"Gustavsberg",
+    "population":686
+  },
+  {
+    "code":"134 33",
+    "location":"Gustavsberg",
+    "population":363
+  },
+  {
+    "code":"134 34",
+    "location":"Gustavsberg",
+    "population":684
+  },
+  {
+    "code":"134 35",
+    "location":"Gustavsberg",
+    "population":1074
+  },
+  {
+    "code":"134 36",
+    "location":"Gustavsberg",
+    "population":903
+  },
+  {
+    "code":"134 37",
+    "location":"Gustavsberg",
+    "population":916
+  },
+  {
+    "code":"134 38",
+    "location":"Gustavsberg",
+    "population":410
+  },
+  {
+    "code":"134 39",
+    "location":"Gustavsberg",
+    "population":1108
+  },
+  {
+    "code":"134 40",
+    "location":"Gustavsberg",
+    "population":1155
+  },
+  {
+    "code":"134 41",
+    "location":"Gustavsberg",
+    "population":1374
+  },
+  {
+    "code":"134 42",
+    "location":"Gustavsberg",
+    "population":1443
+  },
+  {
+    "code":"134 43",
+    "location":"Gustavsberg",
+    "population":1482
+  },
+  {
+    "code":"134 44",
+    "location":"Gustavsberg",
+    "population":6
+  },
+  {
+    "code":"134 60",
+    "location":"Ingar�",
+    "population":1155
+  },
+  {
+    "code":"134 61",
+    "location":"Ingar�",
+    "population":408
+  },
+  {
+    "code":"134 62",
+    "location":"Ingar�",
+    "population":1225
+  },
+  {
+    "code":"134 63",
+    "location":"Ingar�",
+    "population":639
+  },
+  {
+    "code":"134 64",
+    "location":"Ingar�",
+    "population":785
+  },
+  {
+    "code":"134 65",
+    "location":"Ingar�",
+    "population":946
+  },
+  {
+    "code":"134 66",
+    "location":"Ingar�",
+    "population":731
+  },
+  {
+    "code":"134 67",
+    "location":"Ingar�",
+    "population":634
+  },
+  {
+    "code":"134 69",
+    "location":"Ingar�",
+    "population":472
+  },
+  {
+    "code":"135 30",
+    "location":"Tyres�",
+    "population":602
+  },
+  {
+    "code":"135 33",
+    "location":"Tyres�",
+    "population":1287
+  },
+  {
+    "code":"135 34",
+    "location":"Tyres�",
+    "population":1250
+  },
+  {
+    "code":"135 35",
+    "location":"Tyres�",
+    "population":1270
+  },
+  {
+    "code":"135 36",
+    "location":"Tyres�",
+    "population":1968
+  },
+  {
+    "code":"135 37",
+    "location":"Tyres�",
+    "population":903
+  },
+  {
+    "code":"135 39",
+    "location":"Tyres�",
+    "population":399
+  },
+  {
+    "code":"135 40",
+    "location":"Tyres�",
+    "population":1360
+  },
+  {
+    "code":"135 41",
+    "location":"Tyres�",
+    "population":1778
+  },
+  {
+    "code":"135 42",
+    "location":"Tyres�",
+    "population":1517
+  },
+  {
+    "code":"135 43",
+    "location":"Tyres�",
+    "population":1765
+  },
+  {
+    "code":"135 44",
+    "location":"Tyres�",
+    "population":2292
+  },
+  {
+    "code":"135 45",
+    "location":"Tyres�",
+    "population":1980
+  },
+  {
+    "code":"135 46",
+    "location":"Tyres�",
+    "population":1987
+  },
+  {
+    "code":"135 47",
+    "location":"Tyres�",
+    "population":1512
+  },
+  {
+    "code":"135 48",
+    "location":"Tyres�",
+    "population":21
+  },
+  {
+    "code":"135 49",
+    "location":"Tyres�",
+    "population":1881
+  },
+  {
+    "code":"135 50",
+    "location":"Tyres�",
+    "population":2040
+  },
+  {
+    "code":"135 51",
+    "location":"Tyres�",
+    "population":1297
+  },
+  {
+    "code":"135 52",
+    "location":"Tyres�",
+    "population":2367
+  },
+  {
+    "code":"135 53",
+    "location":"Tyres�",
+    "population":2196
+  },
+  {
+    "code":"135 54",
+    "location":"Tyres�",
+    "population":2506
+  },
+  {
+    "code":"135 55",
+    "location":"Tyres�",
+    "population":1649
+  },
+  {
+    "code":"135 58",
+    "location":"Tyres�",
+    "population":419
+  },
+  {
+    "code":"135 59",
+    "location":"Tyres�",
+    "population":6
+  },
+  {
+    "code":"135 60",
+    "location":"Tyres�",
+    "population":946
+  },
+  {
+    "code":"135 61",
+    "location":"Tyres�",
+    "population":857
+  },
+  {
+    "code":"135 62",
+    "location":"Tyres�",
+    "population":1180
+  },
+  {
+    "code":"135 63",
+    "location":"Tyres�",
+    "population":1217
+  },
+  {
+    "code":"135 67",
+    "location":"Tyres�",
+    "population":907
+  },
+  {
+    "code":"135 68",
+    "location":"Tyres�",
+    "population":1254
+  },
+  {
+    "code":"135 69",
+    "location":"Tyres�",
+    "population":1093
+  },
+  {
+    "code":"135 70",
+    "location":"Stockholm",
+    "population":1
+  },
+  {
+    "code":"136 37",
+    "location":"Handen",
+    "population":892
+  },
+  {
+    "code":"136 38",
+    "location":"Handen",
+    "population":1211
+  },
+  {
+    "code":"136 39",
+    "location":"Handen",
+    "population":1055
+  },
+  {
+    "code":"136 40",
+    "location":"Handen",
+    "population":1079
+  },
+  {
+    "code":"136 41",
+    "location":"Handen",
+    "population":2763
+  },
+  {
+    "code":"136 42",
+    "location":"Handen",
+    "population":1797
+  },
+  {
+    "code":"136 43",
+    "location":"Handen",
+    "population":1680
+  },
+  {
+    "code":"136 44",
+    "location":"Handen",
+    "population":48
+  },
+  {
+    "code":"136 45",
+    "location":"Handen",
+    "population":931
+  },
+  {
+    "code":"136 46",
+    "location":"Handen",
+    "population":1493
+  },
+  {
+    "code":"136 47",
+    "location":"Haninge",
+    "population":381
+  },
+  {
+    "code":"136 48",
+    "location":"Handen",
+    "population":1394
+  },
+  {
+    "code":"136 49",
+    "location":"Vega",
+    "population":2231
+  },
+  {
+    "code":"136 50",
+    "location":"Jordbro",
+    "population":102
+  },
+  {
+    "code":"136 59",
+    "location":"Vendels�",
+    "population":1434
+  },
+  {
+    "code":"136 60",
+    "location":"Brandbergen",
+    "population":2067
+  },
+  {
+    "code":"136 61",
+    "location":"Brandbergen",
+    "population":2632
+  },
+  {
+    "code":"136 62",
+    "location":"Brandbergen",
+    "population":1628
+  },
+  {
+    "code":"136 63",
+    "location":"Brandbergen",
+    "population":1888
+  },
+  {
+    "code":"136 64",
+    "location":"Haninge",
+    "population":1760
+  },
+  {
+    "code":"136 65",
+    "location":"S�derby",
+    "population":2013
+  },
+  {
+    "code":"136 66",
+    "location":"Vendels�",
+    "population":1382
+  },
+  {
+    "code":"136 67",
+    "location":"Vendels�",
+    "population":1869
+  },
+  {
+    "code":"136 68",
+    "location":"Vendels�",
+    "population":1753
+  },
+  {
+    "code":"136 69",
+    "location":"Vendels�",
+    "population":1568
+  },
+  {
+    "code":"136 70",
+    "location":"Vendels�",
+    "population":1650
+  },
+  {
+    "code":"136 71",
+    "location":"Vendels�",
+    "population":1867
+  },
+  {
+    "code":"136 72",
+    "location":"Vendels�",
+    "population":1852
+  },
+  {
+    "code":"136 73",
+    "location":"Vendels�",
+    "population":2165
+  },
+  {
+    "code":"136 74",
+    "location":"Norrby",
+    "population":378
+  },
+  {
+    "code":"136 75",
+    "location":"Vendels�",
+    "population":1329
+  },
+  {
+    "code":"137 31",
+    "location":"V�sterhaninge",
+    "population":1357
+  },
+  {
+    "code":"137 32",
+    "location":"V�sterhaninge",
+    "population":2038
+  },
+  {
+    "code":"137 34",
+    "location":"V�sterhaninge",
+    "population":1370
+  },
+  {
+    "code":"137 36",
+    "location":"V�sterhaninge",
+    "population":791
+  },
+  {
+    "code":"137 37",
+    "location":"V�sterhaninge",
+    "population":907
+  },
+  {
+    "code":"137 38",
+    "location":"V�sterhaninge",
+    "population":1821
+  },
+  {
+    "code":"137 39",
+    "location":"V�sterhaninge",
+    "population":71
+  },
+  {
+    "code":"137 40",
+    "location":"V�sterhaninge",
+    "population":1476
+  },
+  {
+    "code":"137 41",
+    "location":"V�sterhaninge",
+    "population":1069
+  },
+  {
+    "code":"137 42",
+    "location":"V�sterhaninge",
+    "population":298
+  },
+  {
+    "code":"137 43",
+    "location":"V�sterhaninge",
+    "population":82
+  },
+  {
+    "code":"137 54",
+    "location":"Tungelsta",
+    "population":1020
+  },
+  {
+    "code":"137 55",
+    "location":"Tungelsta",
+    "population":1366
+  },
+  {
+    "code":"137 56",
+    "location":"Tungelsta",
+    "population":1530
+  },
+  {
+    "code":"137 57",
+    "location":"Tungelsta",
+    "population":804
+  },
+  {
+    "code":"137 61",
+    "location":"Jordbro",
+    "population":1227
+  },
+  {
+    "code":"137 62",
+    "location":"Jordbro",
+    "population":1426
+  },
+  {
+    "code":"137 63",
+    "location":"Jordbro",
+    "population":1672
+  },
+  {
+    "code":"137 64",
+    "location":"Jordbro",
+    "population":1350
+  },
+  {
+    "code":"137 65",
+    "location":"Jordbro",
+    "population":1789
+  },
+  {
+    "code":"137 66",
+    "location":"Jordbro",
+    "population":600
+  },
+  {
+    "code":"137 67",
+    "location":"Jordbro",
+    "population":1299
+  },
+  {
+    "code":"137 68",
+    "location":"Jordbro",
+    "population":1295
+  },
+  {
+    "code":"137 70",
+    "location":"Dalar�",
+    "population":1091
+  },
+  {
+    "code":"137 71",
+    "location":"Dalar�",
+    "population":821
+  },
+  {
+    "code":"137 91",
+    "location":"V�sterhaninge",
+    "population":730
+  },
+  {
+    "code":"137 92",
+    "location":"Tungelsta",
+    "population":338
+  },
+  {
+    "code":"137 93",
+    "location":"Tungelsta",
+    "population":710
+  },
+  {
+    "code":"137 94",
+    "location":"Norra Sorunda",
+    "population":758
+  },
+  {
+    "code":"137 95",
+    "location":"�Sterhaninge",
+    "population":796
+  },
+  {
+    "code":"137 96",
+    "location":"G�l�",
+    "population":171
+  },
+  {
+    "code":"137 97",
+    "location":"�Rsta Havsbad",
+    "population":353
+  },
+  {
+    "code":"138 30",
+    "location":"�Lta",
+    "population":486
+  },
+  {
+    "code":"138 31",
+    "location":"�Lta",
+    "population":1424
+  },
+  {
+    "code":"138 32",
+    "location":"�Lta",
+    "population":1124
+  },
+  {
+    "code":"138 33",
+    "location":"�Lta",
+    "population":1339
+  },
+  {
+    "code":"138 34",
+    "location":"�Lta",
+    "population":1743
+  },
+  {
+    "code":"138 35",
+    "location":"�Lta",
+    "population":1122
+  },
+  {
+    "code":"138 36",
+    "location":"�Lta",
+    "population":1624
+  },
+  {
+    "code":"138 37",
+    "location":"�Lta",
+    "population":1481
+  },
+  {
+    "code":"138 39",
+    "location":"�Lta",
+    "population":371
+  },
+  {
+    "code":"138 40",
+    "location":"�Lta",
+    "population":3
+  },
+  {
+    "code":"139 30",
+    "location":"V�rmd�",
+    "population":1174
+  },
+  {
+    "code":"139 31",
+    "location":"V�rmd�",
+    "population":198
+  },
+  {
+    "code":"139 32",
+    "location":"V�rmd�",
+    "population":1099
+  },
+  {
+    "code":"139 33",
+    "location":"V�rmd�",
+    "population":484
+  },
+  {
+    "code":"139 34",
+    "location":"V�rmd�",
+    "population":1076
+  },
+  {
+    "code":"139 35",
+    "location":"V�rmd�",
+    "population":1204
+  },
+  {
+    "code":"139 36",
+    "location":"V�rmd�",
+    "population":1672
+  },
+  {
+    "code":"139 40",
+    "location":"V�rmd�",
+    "population":1279
+  },
+  {
+    "code":"139 41",
+    "location":"V�rmd�",
+    "population":1047
+  },
+  {
+    "code":"139 50",
+    "location":"V�rmd�",
+    "population":727
+  },
+  {
+    "code":"139 51",
+    "location":"V�rmd�",
+    "population":692
+  },
+  {
+    "code":"139 52",
+    "location":"V�rmd�",
+    "population":50
+  },
+  {
+    "code":"139 53",
+    "location":"V�rmd�",
+    "population":880
+  },
+  {
+    "code":"139 54",
+    "location":"V�rmd�",
+    "population":867
+  },
+  {
+    "code":"139 55",
+    "location":"V�rmd�",
+    "population":645
+  },
+  {
+    "code":"139 56",
+    "location":"V�rmd�",
+    "population":604
+  },
+  {
+    "code":"139 60",
+    "location":"V�rmd�",
+    "population":773
+  },
+  {
+    "code":"139 70",
+    "location":"Stavsn�s",
+    "population":636
+  },
+  {
+    "code":"139 71",
+    "location":"Stavsn�s",
+    "population":618
+  },
+  {
+    "code":"139 72",
+    "location":"Djurhamn",
+    "population":322
+  },
+  {
+    "code":"139 73",
+    "location":"Djurhamn",
+    "population":1141
+  },
+  {
+    "code":"139 74",
+    "location":"Djurhamn",
+    "population":541
+  },
+  {
+    "code":"139 75",
+    "location":"Djurhamn",
+    "population":264
+  },
+  {
+    "code":"139 90",
+    "location":"V�rmd�",
+    "population":427
+  },
+  {
+    "code":"141 30",
+    "location":"Huddinge",
+    "population":940
+  },
+  {
+    "code":"141 31",
+    "location":"Huddinge",
+    "population":1660
+  },
+  {
+    "code":"141 32",
+    "location":"Huddinge",
+    "population":1854
+  },
+  {
+    "code":"141 33",
+    "location":"Huddinge",
+    "population":1622
+  },
+  {
+    "code":"141 34",
+    "location":"Huddinge",
+    "population":1056
+  },
+  {
+    "code":"141 35",
+    "location":"Huddinge",
+    "population":1495
+  },
+  {
+    "code":"141 37",
+    "location":"Huddinge",
+    "population":3225
+  },
+  {
+    "code":"141 38",
+    "location":"Huddinge",
+    "population":1767
+  },
+  {
+    "code":"141 39",
+    "location":"Huddinge",
+    "population":2104
+  },
+  {
+    "code":"141 40",
+    "location":"Huddinge",
+    "population":2777
+  },
+  {
+    "code":"141 41",
+    "location":"Huddinge",
+    "population":3132
+  },
+  {
+    "code":"141 42",
+    "location":"Huddinge",
+    "population":1895
+  },
+  {
+    "code":"141 43",
+    "location":"Huddinge",
+    "population":2281
+  },
+  {
+    "code":"141 44",
+    "location":"Huddinge",
+    "population":2771
+  },
+  {
+    "code":"141 45",
+    "location":"Huddinge",
+    "population":1631
+  },
+  {
+    "code":"141 46",
+    "location":"Huddinge",
+    "population":819
+  },
+  {
+    "code":"141 47",
+    "location":"Huddinge",
+    "population":1736
+  },
+  {
+    "code":"141 48",
+    "location":"Huddinge",
+    "population":2116
+  },
+  {
+    "code":"141 49",
+    "location":"Huddinge",
+    "population":1643
+  },
+  {
+    "code":"141 50",
+    "location":"Huddinge",
+    "population":2282
+  },
+  {
+    "code":"141 51",
+    "location":"Huddinge",
+    "population":1006
+  },
+  {
+    "code":"141 52",
+    "location":"Huddinge",
+    "population":1259
+  },
+  {
+    "code":"141 53",
+    "location":"Huddinge",
+    "population":1068
+  },
+  {
+    "code":"141 54",
+    "location":"Huddinge",
+    "population":1086
+  },
+  {
+    "code":"141 55",
+    "location":"Huddinge",
+    "population":1448
+  },
+  {
+    "code":"141 56",
+    "location":"Huddinge",
+    "population":1816
+  },
+  {
+    "code":"141 59",
+    "location":"Huddinge",
+    "population":1376
+  },
+  {
+    "code":"141 60",
+    "location":"Huddinge",
+    "population":1716
+  },
+  {
+    "code":"141 61",
+    "location":"Huddinge",
+    "population":1168
+  },
+  {
+    "code":"141 62",
+    "location":"Huddinge",
+    "population":817
+  },
+  {
+    "code":"141 63",
+    "location":"Huddinge",
+    "population":816
+  },
+  {
+    "code":"141 68",
+    "location":"Huddinge",
+    "population":1001
+  },
+  {
+    "code":"141 69",
+    "location":"Huddinge",
+    "population":819
+  },
+  {
+    "code":"141 70",
+    "location":"Segeltorp",
+    "population":2019
+  },
+  {
+    "code":"141 71",
+    "location":"Segeltorp",
+    "population":2229
+  },
+  {
+    "code":"141 72",
+    "location":"Segeltorp",
+    "population":2015
+  },
+  {
+    "code":"141 73",
+    "location":"Segeltorp",
+    "population":1694
+  },
+  {
+    "code":"141 74",
+    "location":"Segeltorp",
+    "population":2489
+  },
+  {
+    "code":"141 75",
+    "location":"Kungens Kurva",
+    "population":147
+  },
+  {
+    "code":"141 91",
+    "location":"Huddinge",
+    "population":1283
+  },
+  {
+    "code":"141 92",
+    "location":"Huddinge",
+    "population":287
+  },
+  {
+    "code":"142 30",
+    "location":"Skog�s",
+    "population":662
+  },
+  {
+    "code":"142 31",
+    "location":"Skog�s",
+    "population":1177
+  },
+  {
+    "code":"142 32",
+    "location":"Skog�s",
+    "population":1689
+  },
+  {
+    "code":"142 33",
+    "location":"Skog�s",
+    "population":1253
+  },
+  {
+    "code":"142 34",
+    "location":"Skog�s",
+    "population":1011
+  },
+  {
+    "code":"142 35",
+    "location":"Skog�s",
+    "population":917
+  },
+  {
+    "code":"142 40",
+    "location":"Skog�s",
+    "population":970
+  },
+  {
+    "code":"142 41",
+    "location":"Skog�s",
+    "population":1540
+  },
+  {
+    "code":"142 42",
+    "location":"Skog�s",
+    "population":1600
+  },
+  {
+    "code":"142 43",
+    "location":"Skog�s",
+    "population":1503
+  },
+  {
+    "code":"142 50",
+    "location":"Skog�s",
+    "population":27
+  },
+  {
+    "code":"142 51",
+    "location":"Skog�s",
+    "population":502
+  },
+  {
+    "code":"142 52",
+    "location":"Skog�s",
+    "population":1260
+  },
+  {
+    "code":"142 60",
+    "location":"Tr�ngsund",
+    "population":875
+  },
+  {
+    "code":"142 61",
+    "location":"Tr�ngsund",
+    "population":1319
+  },
+  {
+    "code":"142 62",
+    "location":"Tr�ngsund",
+    "population":923
+  },
+  {
+    "code":"142 63",
+    "location":"Tr�ngsund",
+    "population":1344
+  },
+  {
+    "code":"142 64",
+    "location":"Tr�ngsund",
+    "population":1764
+  },
+  {
+    "code":"142 65",
+    "location":"Tr�ngsund",
+    "population":1135
+  },
+  {
+    "code":"142 66",
+    "location":"Tr�ngsund",
+    "population":1132
+  },
+  {
+    "code":"142 91",
+    "location":"Skog�s",
+    "population":149
+  },
+  {
+    "code":"143 30",
+    "location":"V�rby",
+    "population":582
+  },
+  {
+    "code":"143 31",
+    "location":"V�rby",
+    "population":860
+  },
+  {
+    "code":"143 32",
+    "location":"V�rby",
+    "population":1129
+  },
+  {
+    "code":"143 40",
+    "location":"V�rby",
+    "population":41
+  },
+  {
+    "code":"143 41",
+    "location":"V�rby",
+    "population":1727
+  },
+  {
+    "code":"143 42",
+    "location":"V�rby",
+    "population":1479
+  },
+  {
+    "code":"143 43",
+    "location":"V�rby",
+    "population":841
+  },
+  {
+    "code":"143 44",
+    "location":"V�rby",
+    "population":796
+  },
+  {
+    "code":"143 45",
+    "location":"V�rby",
+    "population":1985
+  },
+  {
+    "code":"143 46",
+    "location":"V�rby",
+    "population":75
+  },
+  {
+    "code":"143 47",
+    "location":"V�rby",
+    "population":386
+  },
+  {
+    "code":"144 30",
+    "location":"R�nninge",
+    "population":490
+  },
+  {
+    "code":"144 31",
+    "location":"R�nninge",
+    "population":974
+  },
+  {
+    "code":"144 32",
+    "location":"R�nninge",
+    "population":1237
+  },
+  {
+    "code":"144 33",
+    "location":"R�nninge",
+    "population":1341
+  },
+  {
+    "code":"144 37",
+    "location":"R�nninge",
+    "population":1061
+  },
+  {
+    "code":"144 40",
+    "location":"R�nninge",
+    "population":1268
+  },
+  {
+    "code":"144 42",
+    "location":"R�nninge",
+    "population":1075
+  },
+  {
+    "code":"144 44",
+    "location":"R�nninge",
+    "population":953
+  },
+  {
+    "code":"144 51",
+    "location":"R�nninge",
+    "population":870
+  },
+  {
+    "code":"144 52",
+    "location":"R�nninge",
+    "population":989
+  },
+  {
+    "code":"144 61",
+    "location":"R�nninge",
+    "population":1278
+  },
+  {
+    "code":"144 62",
+    "location":"R�nninge",
+    "population":1673
+  },
+  {
+    "code":"144 63",
+    "location":"R�nninge",
+    "population":1306
+  },
+  {
+    "code":"144 64",
+    "location":"R�nninge",
+    "population":1238
+  },
+  {
+    "code":"145 50",
+    "location":"Norsborg",
+    "population":2210
+  },
+  {
+    "code":"145 51",
+    "location":"Norsborg",
+    "population":2458
+  },
+  {
+    "code":"145 52",
+    "location":"Norsborg",
+    "population":3111
+  },
+  {
+    "code":"145 53",
+    "location":"Norsborg",
+    "population":14
+  },
+  {
+    "code":"145 56",
+    "location":"Norsborg",
+    "population":2673
+  },
+  {
+    "code":"145 57",
+    "location":"Norsborg",
+    "population":2357
+  },
+  {
+    "code":"145 58",
+    "location":"Norsborg",
+    "population":2877
+  },
+  {
+    "code":"145 59",
+    "location":"Norsborg",
+    "population":3059
+  },
+  {
+    "code":"145 60",
+    "location":"Norsborg",
+    "population":2121
+  },
+  {
+    "code":"145 63",
+    "location":"Norsborg",
+    "population":10
+  },
+  {
+    "code":"145 64",
+    "location":"Norsborg",
+    "population":2283
+  },
+  {
+    "code":"145 65",
+    "location":"Norsborg",
+    "population":1163
+  },
+  {
+    "code":"145 67",
+    "location":"Norsborg",
+    "population":2222
+  },
+  {
+    "code":"145 68",
+    "location":"Norsborg",
+    "population":2145
+  },
+  {
+    "code":"145 69",
+    "location":"Norsborg",
+    "population":2752
+  },
+  {
+    "code":"145 70",
+    "location":"Norsborg",
+    "population":3463
+  },
+  {
+    "code":"145 71",
+    "location":"Norsborg",
+    "population":2266
+  },
+  {
+    "code":"145 72",
+    "location":"Norsborg",
+    "population":804
+  },
+  {
+    "code":"145 73",
+    "location":"Norsborg",
+    "population":1332
+  },
+  {
+    "code":"145 74",
+    "location":"Norsborg",
+    "population":1118
+  },
+  {
+    "code":"145 90",
+    "location":"Norsborg",
+    "population":428
+  },
+  {
+    "code":"146 30",
+    "location":"Tullinge",
+    "population":1082
+  },
+  {
+    "code":"146 31",
+    "location":"Tullinge",
+    "population":893
+  },
+  {
+    "code":"146 32",
+    "location":"Tullinge",
+    "population":852
+  },
+  {
+    "code":"146 33",
+    "location":"Tullinge",
+    "population":55
+  },
+  {
+    "code":"146 34",
+    "location":"Tullinge",
+    "population":1169
+  },
+  {
+    "code":"146 36",
+    "location":"Tullinge",
+    "population":951
+  },
+  {
+    "code":"146 37",
+    "location":"Tullinge",
+    "population":1136
+  },
+  {
+    "code":"146 38",
+    "location":"Tullinge",
+    "population":999
+  },
+  {
+    "code":"146 40",
+    "location":"Tullinge",
+    "population":1020
+  },
+  {
+    "code":"146 41",
+    "location":"Tullinge",
+    "population":205
+  },
+  {
+    "code":"146 45",
+    "location":"Tullinge",
+    "population":1541
+  },
+  {
+    "code":"146 46",
+    "location":"Tullinge",
+    "population":1641
+  },
+  {
+    "code":"146 48",
+    "location":"Tullinge",
+    "population":813
+  },
+  {
+    "code":"146 49",
+    "location":"Tullinge",
+    "population":357
+  },
+  {
+    "code":"146 50",
+    "location":"Tullinge",
+    "population":1206
+  },
+  {
+    "code":"146 52",
+    "location":"Tullinge",
+    "population":1628
+  },
+  {
+    "code":"146 53",
+    "location":"Tullinge",
+    "population":853
+  },
+  {
+    "code":"146 54",
+    "location":"Tullinge",
+    "population":1092
+  },
+  {
+    "code":"147 30",
+    "location":"Tumba",
+    "population":949
+  },
+  {
+    "code":"147 31",
+    "location":"Tumba",
+    "population":1191
+  },
+  {
+    "code":"147 32",
+    "location":"Tumba",
+    "population":1040
+  },
+  {
+    "code":"147 33",
+    "location":"Tumba",
+    "population":1362
+  },
+  {
+    "code":"147 34",
+    "location":"Tumba",
+    "population":2241
+  },
+  {
+    "code":"147 39",
+    "location":"Tumba",
+    "population":5
+  },
+  {
+    "code":"147 40",
+    "location":"Tumba",
+    "population":1359
+  },
+  {
+    "code":"147 41",
+    "location":"Tumba",
+    "population":1039
+  },
+  {
+    "code":"147 42",
+    "location":"Tumba",
+    "population":958
+  },
+  {
+    "code":"147 43",
+    "location":"Tumba",
+    "population":1456
+  },
+  {
+    "code":"147 44",
+    "location":"Tumba",
+    "population":711
+  },
+  {
+    "code":"147 45",
+    "location":"Tumba",
+    "population":538
+  },
+  {
+    "code":"147 46",
+    "location":"Tumba",
+    "population":207
+  },
+  {
+    "code":"147 50",
+    "location":"Tumba",
+    "population":1200
+  },
+  {
+    "code":"147 51",
+    "location":"Tumba",
+    "population":1248
+  },
+  {
+    "code":"147 52",
+    "location":"Tumba",
+    "population":1281
+  },
+  {
+    "code":"147 53",
+    "location":"Tumba",
+    "population":1838
+  },
+  {
+    "code":"147 54",
+    "location":"Tumba",
+    "population":945
+  },
+  {
+    "code":"147 55",
+    "location":"Tumba",
+    "population":751
+  },
+  {
+    "code":"147 60",
+    "location":"Uttran",
+    "population":204
+  },
+  {
+    "code":"147 61",
+    "location":"Uttran",
+    "population":517
+  },
+  {
+    "code":"147 62",
+    "location":"Uttran",
+    "population":727
+  },
+  {
+    "code":"147 63",
+    "location":"Uttran",
+    "population":1688
+  },
+  {
+    "code":"147 70",
+    "location":"Gr�dinge",
+    "population":1000
+  },
+  {
+    "code":"147 71",
+    "location":"Gr�dinge",
+    "population":1482
+  },
+  {
+    "code":"147 91",
+    "location":"Gr�dinge",
+    "population":839
+  },
+  {
+    "code":"147 92",
+    "location":"Gr�dinge",
+    "population":997
+  },
+  {
+    "code":"148 30",
+    "location":"�Smo",
+    "population":859
+  },
+  {
+    "code":"148 31",
+    "location":"�Smo",
+    "population":461
+  },
+  {
+    "code":"148 32",
+    "location":"�Smo",
+    "population":621
+  },
+  {
+    "code":"148 33",
+    "location":"�Smo",
+    "population":752
+  },
+  {
+    "code":"148 34",
+    "location":"�Smo",
+    "population":358
+  },
+  {
+    "code":"148 35",
+    "location":"�Smo",
+    "population":765
+  },
+  {
+    "code":"148 40",
+    "location":"Segers�ng",
+    "population":737
+  },
+  {
+    "code":"148 60",
+    "location":"Stora Vika",
+    "population":740
+  },
+  {
+    "code":"148 70",
+    "location":"Sorunda",
+    "population":444
+  },
+  {
+    "code":"148 71",
+    "location":"Sorunda",
+    "population":1008
+  },
+  {
+    "code":"148 91",
+    "location":"�Smo",
+    "population":1615
+  },
+  {
+    "code":"148 92",
+    "location":"�Smo",
+    "population":462
+  },
+  {
+    "code":"148 95",
+    "location":"Musk�",
+    "population":751
+  },
+  {
+    "code":"148 96",
+    "location":"Sorunda",
+    "population":1254
+  },
+  {
+    "code":"148 97",
+    "location":"Sorunda",
+    "population":993
+  },
+  {
+    "code":"149 30",
+    "location":"Nyn�shamn",
+    "population":1374
+  },
+  {
+    "code":"149 31",
+    "location":"Nyn�shamn",
+    "population":1796
+  },
+  {
+    "code":"149 32",
+    "location":"Nyn�shamn",
+    "population":1297
+  },
+  {
+    "code":"149 33",
+    "location":"Nyn�shamn",
+    "population":1127
+  },
+  {
+    "code":"149 34",
+    "location":"Nyn�shamn",
+    "population":487
+  },
+  {
+    "code":"149 35",
+    "location":"Nyn�shamn",
+    "population":1113
+  },
+  {
+    "code":"149 40",
+    "location":"Nyn�shamn",
+    "population":762
+  },
+  {
+    "code":"149 41",
+    "location":"Nyn�shamn",
+    "population":1343
+  },
+  {
+    "code":"149 43",
+    "location":"Nyn�shamn",
+    "population":2046
+  },
+  {
+    "code":"149 45",
+    "location":"Nyn�shamn",
+    "population":222
+  },
+  {
+    "code":"149 50",
+    "location":"Nyn�shamn",
+    "population":1308
+  },
+  {
+    "code":"149 51",
+    "location":"Nyn�shamn",
+    "population":888
+  },
+  {
+    "code":"149 91",
+    "location":"Nyn�shamn",
+    "population":258
+  },
+  {
+    "code":"149 92",
+    "location":"Nyn�shamn",
+    "population":542
+  },
+  {
+    "code":"149 95",
+    "location":"Nyn�shamn",
+    "population":55
+  },
+  {
+    "code":"151 32",
+    "location":"S�dert�lje",
+    "population":1217
+  },
+  {
+    "code":"151 33",
+    "location":"S�dert�lje",
+    "population":1471
+  },
+  {
+    "code":"151 34",
+    "location":"S�dert�lje",
+    "population":1203
+  },
+  {
+    "code":"151 35",
+    "location":"S�dert�lje",
+    "population":1098
+  },
+  {
+    "code":"151 36",
+    "location":"S�dert�lje",
+    "population":678
+  },
+  {
+    "code":"151 37",
+    "location":"S�dert�lje",
+    "population":1354
+  },
+  {
+    "code":"151 38",
+    "location":"S�dert�lje",
+    "population":808
+  },
+  {
+    "code":"151 39",
+    "location":"S�dert�lje",
+    "population":2270
+  },
+  {
+    "code":"151 40",
+    "location":"S�dert�lje",
+    "population":27
+  },
+  {
+    "code":"151 44",
+    "location":"S�dert�lje",
+    "population":1085
+  },
+  {
+    "code":"151 45",
+    "location":"S�dert�lje",
+    "population":1395
+  },
+  {
+    "code":"151 46",
+    "location":"S�dert�lje",
+    "population":1351
+  },
+  {
+    "code":"151 47",
+    "location":"S�dert�lje",
+    "population":2160
+  },
+  {
+    "code":"151 48",
+    "location":"S�dert�lje",
+    "population":1976
+  },
+  {
+    "code":"151 50",
+    "location":"Enh�rna",
+    "population":1542
+  },
+  {
+    "code":"151 52",
+    "location":"S�dert�lje",
+    "population":1626
+  },
+  {
+    "code":"151 53",
+    "location":"S�dert�lje",
+    "population":3242
+  },
+  {
+    "code":"151 54",
+    "location":"S�dert�lje",
+    "population":2638
+  },
+  {
+    "code":"151 55",
+    "location":"S�dert�lje",
+    "population":2239
+  },
+  {
+    "code":"151 56",
+    "location":"S�dert�lje",
+    "population":1006
+  },
+  {
+    "code":"151 57",
+    "location":"S�dert�lje",
+    "population":478
+  },
+  {
+    "code":"151 59",
+    "location":"S�dert�lje",
+    "population":2329
+  },
+  {
+    "code":"151 60",
+    "location":"S�dert�lje",
+    "population":2571
+  },
+  {
+    "code":"151 61",
+    "location":"S�dert�lje",
+    "population":2365
+  },
+  {
+    "code":"151 62",
+    "location":"S�dert�lje",
+    "population":1381
+  },
+  {
+    "code":"151 63",
+    "location":"S�dert�lje",
+    "population":977
+  },
+  {
+    "code":"151 64",
+    "location":"S�dert�lje",
+    "population":2893
+  },
+  {
+    "code":"151 65",
+    "location":"S�dert�lje",
+    "population":2638
+  },
+  {
+    "code":"151 66",
+    "location":"S�dert�lje",
+    "population":414
+  },
+  {
+    "code":"151 68",
+    "location":"S�dert�lje",
+    "population":1983
+  },
+  {
+    "code":"151 71",
+    "location":"S�dert�lje",
+    "population":589
+  },
+  {
+    "code":"151 72",
+    "location":"S�dert�lje",
+    "population":706
+  },
+  {
+    "code":"151 73",
+    "location":"S�dert�lje",
+    "population":1061
+  },
+  {
+    "code":"151 96",
+    "location":"Enh�rna",
+    "population":1117
+  },
+  {
+    "code":"152 30",
+    "location":"S�dert�lje",
+    "population":911
+  },
+  {
+    "code":"152 31",
+    "location":"S�dert�lje",
+    "population":1245
+  },
+  {
+    "code":"152 40",
+    "location":"S�dert�lje",
+    "population":1031
+  },
+  {
+    "code":"152 41",
+    "location":"S�dert�lje",
+    "population":1598
+  },
+  {
+    "code":"152 42",
+    "location":"S�dert�lje",
+    "population":509
+  },
+  {
+    "code":"152 43",
+    "location":"S�dert�lje",
+    "population":1381
+  },
+  {
+    "code":"152 48",
+    "location":"S�dert�lje",
+    "population":1051
+  },
+  {
+    "code":"152 49",
+    "location":"S�dert�lje",
+    "population":1338
+  },
+  {
+    "code":"152 50",
+    "location":"S�dert�lje",
+    "population":1275
+  },
+  {
+    "code":"152 51",
+    "location":"S�dert�lje",
+    "population":1262
+  },
+  {
+    "code":"152 52",
+    "location":"S�dert�lje",
+    "population":1773
+  },
+  {
+    "code":"152 54",
+    "location":"S�dert�lje",
+    "population":859
+  },
+  {
+    "code":"152 56",
+    "location":"S�dert�lje",
+    "population":1703
+  },
+  {
+    "code":"152 57",
+    "location":"S�dert�lje",
+    "population":1787
+  },
+  {
+    "code":"152 58",
+    "location":"S�dert�lje",
+    "population":2082
+  },
+  {
+    "code":"152 59",
+    "location":"S�dert�lje",
+    "population":563
+  },
+  {
+    "code":"152 70",
+    "location":"S�dert�lje",
+    "population":1526
+  },
+  {
+    "code":"152 71",
+    "location":"S�dert�lje",
+    "population":267
+  },
+  {
+    "code":"152 95",
+    "location":"S�dert�lje",
+    "population":456
+  },
+  {
+    "code":"152 97",
+    "location":"S�dert�lje",
+    "population":237
+  },
+  {
+    "code":"153 30",
+    "location":"J�rna",
+    "population":1119
+  },
+  {
+    "code":"153 31",
+    "location":"J�rna",
+    "population":811
+  },
+  {
+    "code":"153 32",
+    "location":"J�rna",
+    "population":394
+  },
+  {
+    "code":"153 35",
+    "location":"J�rna",
+    "population":1141
+  },
+  {
+    "code":"153 36",
+    "location":"J�rna",
+    "population":1351
+  },
+  {
+    "code":"153 37",
+    "location":"J�rna",
+    "population":1019
+  },
+  {
+    "code":"153 38",
+    "location":"J�rna",
+    "population":1141
+  },
+  {
+    "code":"153 60",
+    "location":"M�lnbo",
+    "population":1102
+  },
+  {
+    "code":"153 71",
+    "location":"H�l�",
+    "population":1165
+  },
+  {
+    "code":"153 91",
+    "location":"J�rna",
+    "population":1024
+  },
+  {
+    "code":"153 92",
+    "location":"H�l�",
+    "population":1039
+  },
+  {
+    "code":"153 93",
+    "location":"M�rk�",
+    "population":467
+  },
+  {
+    "code":"153 94",
+    "location":"H�l�",
+    "population":615
+  },
+  {
+    "code":"153 95",
+    "location":"J�rna",
+    "population":1337
+  },
+  {
+    "code":"153 96",
+    "location":"M�lnbo",
+    "population":614
+  },
+  {
+    "code":"155 30",
+    "location":"Nykvarn",
+    "population":2105
+  },
+  {
+    "code":"155 31",
+    "location":"Nykvarn",
+    "population":1826
+  },
+  {
+    "code":"155 32",
+    "location":"Nykvarn",
+    "population":346
+  },
+  {
+    "code":"155 33",
+    "location":"Nykvarn",
+    "population":625
+  },
+  {
+    "code":"155 34",
+    "location":"Nykvarn",
+    "population":1650
+  },
+  {
+    "code":"155 91",
+    "location":"Nykvarn",
+    "population":1245
+  },
+  {
+    "code":"155 92",
+    "location":"Nykvarn",
+    "population":188
+  },
+  {
+    "code":"155 93",
+    "location":"Nykvarn",
+    "population":1091
+  },
+  {
+    "code":"155 94",
+    "location":"Nykvarn",
+    "population":332
+  },
+  {
+    "code":"162 43",
+    "location":"V�llingby",
+    "population":421
+  },
+  {
+    "code":"162 44",
+    "location":"V�llingby",
+    "population":1961
+  },
+  {
+    "code":"162 45",
+    "location":"V�llingby",
+    "population":1950
+  },
+  {
+    "code":"162 46",
+    "location":"V�llingby",
+    "population":2180
+  },
+  {
+    "code":"162 47",
+    "location":"V�llingby",
+    "population":1328
+  },
+  {
+    "code":"162 50",
+    "location":"V�llingby",
+    "population":135
+  },
+  {
+    "code":"162 52",
+    "location":"V�llingby",
+    "population":1304
+  },
+  {
+    "code":"162 53",
+    "location":"V�llingby",
+    "population":1367
+  },
+  {
+    "code":"162 54",
+    "location":"V�llingby",
+    "population":1324
+  },
+  {
+    "code":"162 55",
+    "location":"V�llingby",
+    "population":1089
+  },
+  {
+    "code":"162 56",
+    "location":"V�llingby",
+    "population":1843
+  },
+  {
+    "code":"162 57",
+    "location":"V�llingby",
+    "population":1070
+  },
+  {
+    "code":"162 58",
+    "location":"V�llingby",
+    "population":1480
+  },
+  {
+    "code":"162 60",
+    "location":"V�llingby",
+    "population":581
+  },
+  {
+    "code":"162 61",
+    "location":"V�llingby",
+    "population":1072
+  },
+  {
+    "code":"162 62",
+    "location":"V�llingby",
+    "population":1115
+  },
+  {
+    "code":"162 63",
+    "location":"V�llingby",
+    "population":970
+  },
+  {
+    "code":"162 64",
+    "location":"V�llingby",
+    "population":793
+  },
+  {
+    "code":"162 65",
+    "location":"V�llingby",
+    "population":990
+  },
+  {
+    "code":"162 66",
+    "location":"V�llingby",
+    "population":1099
+  },
+  {
+    "code":"162 67",
+    "location":"V�llingby",
+    "population":1485
+  },
+  {
+    "code":"162 68",
+    "location":"V�llingby",
+    "population":1028
+  },
+  {
+    "code":"162 70",
+    "location":"V�llingby",
+    "population":1106
+  },
+  {
+    "code":"162 71",
+    "location":"V�llingby",
+    "population":1376
+  },
+  {
+    "code":"162 72",
+    "location":"V�llingby",
+    "population":1027
+  },
+  {
+    "code":"162 73",
+    "location":"V�llingby",
+    "population":617
+  },
+  {
+    "code":"163 40",
+    "location":"Sp�nga",
+    "population":1117
+  },
+  {
+    "code":"163 41",
+    "location":"Sp�nga",
+    "population":1455
+  },
+  {
+    "code":"163 42",
+    "location":"Sp�nga",
+    "population":1820
+  },
+  {
+    "code":"163 43",
+    "location":"Sp�nga",
+    "population":1567
+  },
+  {
+    "code":"163 44",
+    "location":"Sp�nga",
+    "population":1468
+  },
+  {
+    "code":"163 45",
+    "location":"Sp�nga",
+    "population":1024
+  },
+  {
+    "code":"163 46",
+    "location":"Sp�nga",
+    "population":1198
+  },
+  {
+    "code":"163 47",
+    "location":"Sp�nga",
+    "population":1380
+  },
+  {
+    "code":"163 50",
+    "location":"Sp�nga",
+    "population":1279
+  },
+  {
+    "code":"163 51",
+    "location":"Sp�nga",
+    "population":2050
+  },
+  {
+    "code":"163 52",
+    "location":"Sp�nga",
+    "population":1017
+  },
+  {
+    "code":"163 53",
+    "location":"Sp�nga",
+    "population":20
+  },
+  {
+    "code":"163 54",
+    "location":"Sp�nga",
+    "population":2543
+  },
+  {
+    "code":"163 55",
+    "location":"Sp�nga",
+    "population":1251
+  },
+  {
+    "code":"163 56",
+    "location":"Sp�nga",
+    "population":1799
+  },
+  {
+    "code":"163 61",
+    "location":"Sp�nga",
+    "population":2366
+  },
+  {
+    "code":"163 62",
+    "location":"Sp�nga",
+    "population":2461
+  },
+  {
+    "code":"163 63",
+    "location":"Sp�nga",
+    "population":2411
+  },
+  {
+    "code":"163 64",
+    "location":"Sp�nga",
+    "population":2776
+  },
+  {
+    "code":"163 65",
+    "location":"Sp�nga",
+    "population":2558
+  },
+  {
+    "code":"163 66",
+    "location":"Sp�nga",
+    "population":1412
+  },
+  {
+    "code":"163 67",
+    "location":"Sp�nga",
+    "population":1702
+  },
+  {
+    "code":"163 68",
+    "location":"Sp�nga",
+    "population":2808
+  },
+  {
+    "code":"163 70",
+    "location":"Sp�nga",
+    "population":3211
+  },
+  {
+    "code":"163 71",
+    "location":"Sp�nga",
+    "population":2822
+  },
+  {
+    "code":"163 72",
+    "location":"Sp�nga",
+    "population":2470
+  },
+  {
+    "code":"163 73",
+    "location":"Sp�nga",
+    "population":2696
+  },
+  {
+    "code":"163 74",
+    "location":"Sp�nga",
+    "population":2735
+  },
+  {
+    "code":"163 75",
+    "location":"Sp�nga",
+    "population":2002
+  },
+  {
+    "code":"164 30",
+    "location":"Kista",
+    "population":1750
+  },
+  {
+    "code":"164 31",
+    "location":"Kista",
+    "population":1796
+  },
+  {
+    "code":"164 32",
+    "location":"Kista",
+    "population":928
+  },
+  {
+    "code":"164 33",
+    "location":"Kista",
+    "population":874
+  },
+  {
+    "code":"164 34",
+    "location":"Kista",
+    "population":1634
+  },
+  {
+    "code":"164 35",
+    "location":"Kista",
+    "population":794
+  },
+  {
+    "code":"164 36",
+    "location":"Kista",
+    "population":1291
+  },
+  {
+    "code":"164 37",
+    "location":"Kista",
+    "population":1503
+  },
+  {
+    "code":"164 38",
+    "location":"Kista",
+    "population":1022
+  },
+  {
+    "code":"164 39",
+    "location":"Kista",
+    "population":789
+  },
+  {
+    "code":"164 40",
+    "location":"Kista",
+    "population":35
+  },
+  {
+    "code":"164 41",
+    "location":"Kista",
+    "population":864
+  },
+  {
+    "code":"164 42",
+    "location":"Kista",
+    "population":869
+  },
+  {
+    "code":"164 43",
+    "location":"Kista",
+    "population":992
+  },
+  {
+    "code":"164 44",
+    "location":"Kista",
+    "population":1294
+  },
+  {
+    "code":"164 45",
+    "location":"Kista",
+    "population":1372
+  },
+  {
+    "code":"164 46",
+    "location":"Kista",
+    "population":1759
+  },
+  {
+    "code":"164 47",
+    "location":"Kista",
+    "population":1186
+  },
+  {
+    "code":"164 48",
+    "location":"Kista",
+    "population":1179
+  },
+  {
+    "code":"164 53",
+    "location":"Kista",
+    "population":700
+  },
+  {
+    "code":"164 55",
+    "location":"Kista",
+    "population":886
+  },
+  {
+    "code":"164 71",
+    "location":"Kista",
+    "population":807
+  },
+  {
+    "code":"164 72",
+    "location":"Kista",
+    "population":806
+  },
+  {
+    "code":"164 73",
+    "location":"Kista",
+    "population":860
+  },
+  {
+    "code":"164 74",
+    "location":"Kista",
+    "population":37
+  },
+  {
+    "code":"164 75",
+    "location":"Kista",
+    "population":1561
+  },
+  {
+    "code":"164 76",
+    "location":"Kista",
+    "population":1268
+  },
+  {
+    "code":"164 77",
+    "location":"Kista",
+    "population":927
+  },
+  {
+    "code":"164 78",
+    "location":"Kista",
+    "population":1459
+  },
+  {
+    "code":"164 79",
+    "location":"Kista",
+    "population":665
+  },
+  {
+    "code":"165 52",
+    "location":"H�sselby",
+    "population":1589
+  },
+  {
+    "code":"165 53",
+    "location":"H�sselby",
+    "population":1173
+  },
+  {
+    "code":"165 54",
+    "location":"H�sselby",
+    "population":1400
+  },
+  {
+    "code":"165 55",
+    "location":"H�sselby",
+    "population":870
+  },
+  {
+    "code":"165 56",
+    "location":"H�sselby",
+    "population":1472
+  },
+  {
+    "code":"165 57",
+    "location":"H�sselby",
+    "population":1467
+  },
+  {
+    "code":"165 58",
+    "location":"H�sselby",
+    "population":1857
+  },
+  {
+    "code":"165 59",
+    "location":"H�sselby",
+    "population":1525
+  },
+  {
+    "code":"165 60",
+    "location":"H�sselby",
+    "population":1555
+  },
+  {
+    "code":"165 61",
+    "location":"H�sselby",
+    "population":1252
+  },
+  {
+    "code":"165 62",
+    "location":"H�sselby",
+    "population":452
+  },
+  {
+    "code":"165 63",
+    "location":"H�sselby",
+    "population":819
+  },
+  {
+    "code":"165 64",
+    "location":"H�sselby",
+    "population":1611
+  },
+  {
+    "code":"165 65",
+    "location":"H�sselby",
+    "population":1045
+  },
+  {
+    "code":"165 66",
+    "location":"H�sselby",
+    "population":1498
+  },
+  {
+    "code":"165 70",
+    "location":"H�sselby",
+    "population":1559
+  },
+  {
+    "code":"165 71",
+    "location":"H�sselby",
+    "population":1743
+  },
+  {
+    "code":"165 72",
+    "location":"H�sselby",
+    "population":1671
+  },
+  {
+    "code":"165 73",
+    "location":"H�sselby",
+    "population":2065
+  },
+  {
+    "code":"165 74",
+    "location":"H�sselby",
+    "population":2313
+  },
+  {
+    "code":"165 75",
+    "location":"H�sselby",
+    "population":1549
+  },
+  {
+    "code":"165 76",
+    "location":"H�sselby",
+    "population":1640
+  },
+  {
+    "code":"165 77",
+    "location":"H�sselby",
+    "population":1689
+  },
+  {
+    "code":"165 78",
+    "location":"H�sselby",
+    "population":1775
+  },
+  {
+    "code":"167 31",
+    "location":"Bromma",
+    "population":843
+  },
+  {
+    "code":"167 32",
+    "location":"Bromma",
+    "population":540
+  },
+  {
+    "code":"167 33",
+    "location":"Bromma",
+    "population":759
+  },
+  {
+    "code":"167 35",
+    "location":"Bromma",
+    "population":527
+  },
+  {
+    "code":"167 36",
+    "location":"Bromma",
+    "population":685
+  },
+  {
+    "code":"167 37",
+    "location":"Bromma",
+    "population":860
+  },
+  {
+    "code":"167 38",
+    "location":"Bromma",
+    "population":1152
+  },
+  {
+    "code":"167 39",
+    "location":"Bromma",
+    "population":724
+  },
+  {
+    "code":"167 40",
+    "location":"Bromma",
+    "population":638
+  },
+  {
+    "code":"167 41",
+    "location":"Bromma",
+    "population":737
+  },
+  {
+    "code":"167 43",
+    "location":"Bromma",
+    "population":1088
+  },
+  {
+    "code":"167 44",
+    "location":"Bromma",
+    "population":493
+  },
+  {
+    "code":"167 45",
+    "location":"Bromma",
+    "population":455
+  },
+  {
+    "code":"167 51",
+    "location":"Bromma",
+    "population":349
+  },
+  {
+    "code":"167 52",
+    "location":"Bromma",
+    "population":506
+  },
+  {
+    "code":"167 53",
+    "location":"Bromma",
+    "population":959
+  },
+  {
+    "code":"167 54",
+    "location":"Bromma",
+    "population":637
+  },
+  {
+    "code":"167 55",
+    "location":"Bromma",
+    "population":360
+  },
+  {
+    "code":"167 56",
+    "location":"Bromma",
+    "population":1018
+  },
+  {
+    "code":"167 57",
+    "location":"Bromma",
+    "population":410
+  },
+  {
+    "code":"167 58",
+    "location":"Bromma",
+    "population":296
+  },
+  {
+    "code":"167 61",
+    "location":"Bromma",
+    "population":841
+  },
+  {
+    "code":"167 62",
+    "location":"Bromma",
+    "population":940
+  },
+  {
+    "code":"167 63",
+    "location":"Bromma",
+    "population":751
+  },
+  {
+    "code":"167 64",
+    "location":"Bromma",
+    "population":517
+  },
+  {
+    "code":"167 65",
+    "location":"Bromma",
+    "population":1097
+  },
+  {
+    "code":"167 66",
+    "location":"Bromma",
+    "population":1195
+  },
+  {
+    "code":"167 67",
+    "location":"Bromma",
+    "population":536
+  },
+  {
+    "code":"167 71",
+    "location":"Bromma",
+    "population":1490
+  },
+  {
+    "code":"167 72",
+    "location":"Bromma",
+    "population":569
+  },
+  {
+    "code":"167 73",
+    "location":"Bromma",
+    "population":524
+  },
+  {
+    "code":"167 74",
+    "location":"Bromma",
+    "population":771
+  },
+  {
+    "code":"167 75",
+    "location":"Bromma",
+    "population":1132
+  },
+  {
+    "code":"167 76",
+    "location":"Bromma",
+    "population":700
+  },
+  {
+    "code":"168 30",
+    "location":"Bromma",
+    "population":977
+  },
+  {
+    "code":"168 31",
+    "location":"Bromma",
+    "population":632
+  },
+  {
+    "code":"168 32",
+    "location":"Bromma",
+    "population":968
+  },
+  {
+    "code":"168 33",
+    "location":"Bromma",
+    "population":799
+  },
+  {
+    "code":"168 34",
+    "location":"Bromma",
+    "population":697
+  },
+  {
+    "code":"168 35",
+    "location":"Bromma",
+    "population":740
+  },
+  {
+    "code":"168 36",
+    "location":"Bromma",
+    "population":1385
+  },
+  {
+    "code":"168 37",
+    "location":"Bromma",
+    "population":614
+  },
+  {
+    "code":"168 38",
+    "location":"Bromma",
+    "population":731
+  },
+  {
+    "code":"168 39",
+    "location":"Bromma",
+    "population":1085
+  },
+  {
+    "code":"168 40",
+    "location":"Bromma",
+    "population":819
+  },
+  {
+    "code":"168 41",
+    "location":"Bromma",
+    "population":988
+  },
+  {
+    "code":"168 43",
+    "location":"Bromma",
+    "population":823
+  },
+  {
+    "code":"168 44",
+    "location":"Bromma",
+    "population":1284
+  },
+  {
+    "code":"168 45",
+    "location":"Bromma",
+    "population":1177
+  },
+  {
+    "code":"168 46",
+    "location":"Bromma",
+    "population":730
+  },
+  {
+    "code":"168 47",
+    "location":"Bromma",
+    "population":655
+  },
+  {
+    "code":"168 48",
+    "location":"Bromma",
+    "population":696
+  },
+  {
+    "code":"168 49",
+    "location":"Bromma",
+    "population":1333
+  },
+  {
+    "code":"168 50",
+    "location":"Bromma",
+    "population":958
+  },
+  {
+    "code":"168 51",
+    "location":"Bromma",
+    "population":880
+  },
+  {
+    "code":"168 52",
+    "location":"Bromma",
+    "population":895
+  },
+  {
+    "code":"168 53",
+    "location":"Bromma",
+    "population":1869
+  },
+  {
+    "code":"168 54",
+    "location":"Bromma",
+    "population":1000
+  },
+  {
+    "code":"168 55",
+    "location":"Bromma",
+    "population":1441
+  },
+  {
+    "code":"168 56",
+    "location":"Bromma",
+    "population":1254
+  },
+  {
+    "code":"168 57",
+    "location":"Bromma",
+    "population":1422
+  },
+  {
+    "code":"168 58",
+    "location":"Bromma",
+    "population":1391
+  },
+  {
+    "code":"168 59",
+    "location":"Bromma",
+    "population":1309
+  },
+  {
+    "code":"168 60",
+    "location":"Bromma",
+    "population":1336
+  },
+  {
+    "code":"168 61",
+    "location":"Bromma",
+    "population":482
+  },
+  {
+    "code":"168 62",
+    "location":"Bromma",
+    "population":1222
+  },
+  {
+    "code":"168 64",
+    "location":"Bromma",
+    "population":788
+  },
+  {
+    "code":"168 65",
+    "location":"Bromma",
+    "population":1276
+  },
+  {
+    "code":"168 66",
+    "location":"Bromma",
+    "population":1121
+  },
+  {
+    "code":"168 67",
+    "location":"Bromma",
+    "population":146
+  },
+  {
+    "code":"168 68",
+    "location":"Bromma",
+    "population":1741
+  },
+  {
+    "code":"168 69",
+    "location":"Bromma",
+    "population":890
+  },
+  {
+    "code":"168 70",
+    "location":"Bromma",
+    "population":1687
+  },
+  {
+    "code":"168 71",
+    "location":"Bromma",
+    "population":540
+  },
+  {
+    "code":"168 73",
+    "location":"Bromma",
+    "population":977
+  },
+  {
+    "code":"168 74",
+    "location":"Bromma",
+    "population":1380
+  },
+  {
+    "code":"168 75",
+    "location":"Bromma",
+    "population":806
+  },
+  {
+    "code":"168 76",
+    "location":"Bromma",
+    "population":299
+  },
+  {
+    "code":"168 77",
+    "location":"Bromma",
+    "population":159
+  },
+  {
+    "code":"169 30",
+    "location":"Solna",
+    "population":1039
+  },
+  {
+    "code":"169 31",
+    "location":"Solna",
+    "population":1143
+  },
+  {
+    "code":"169 32",
+    "location":"Solna",
+    "population":1122
+  },
+  {
+    "code":"169 33",
+    "location":"Solna",
+    "population":850
+  },
+  {
+    "code":"169 34",
+    "location":"Solna",
+    "population":705
+  },
+  {
+    "code":"169 35",
+    "location":"Solna",
+    "population":887
+  },
+  {
+    "code":"169 36",
+    "location":"Solna",
+    "population":1373
+  },
+  {
+    "code":"169 37",
+    "location":"Solna",
+    "population":789
+  },
+  {
+    "code":"169 38",
+    "location":"Solna",
+    "population":386
+  },
+  {
+    "code":"169 39",
+    "location":"Solna",
+    "population":419
+  },
+  {
+    "code":"169 40",
+    "location":"Solna",
+    "population":1103
+  },
+  {
+    "code":"169 50",
+    "location":"Solna",
+    "population":1235
+  },
+  {
+    "code":"169 51",
+    "location":"Solna",
+    "population":802
+  },
+  {
+    "code":"169 52",
+    "location":"Solna",
+    "population":587
+  },
+  {
+    "code":"169 53",
+    "location":"Solna",
+    "population":877
+  },
+  {
+    "code":"169 54",
+    "location":"Solna",
+    "population":701
+  },
+  {
+    "code":"169 55",
+    "location":"Solna",
+    "population":1017
+  },
+  {
+    "code":"169 56",
+    "location":"Solna",
+    "population":46
+  },
+  {
+    "code":"169 57",
+    "location":"Solna",
+    "population":644
+  },
+  {
+    "code":"169 58",
+    "location":"Solna",
+    "population":786
+  },
+  {
+    "code":"169 59",
+    "location":"Solna",
+    "population":788
+  },
+  {
+    "code":"169 60",
+    "location":"Solna",
+    "population":922
+  },
+  {
+    "code":"169 61",
+    "location":"Solna",
+    "population":790
+  },
+  {
+    "code":"169 62",
+    "location":"Solna",
+    "population":662
+  },
+  {
+    "code":"169 63",
+    "location":"Solna",
+    "population":1027
+  },
+  {
+    "code":"169 64",
+    "location":"Solna",
+    "population":843
+  },
+  {
+    "code":"169 65",
+    "location":"Solna",
+    "population":1090
+  },
+  {
+    "code":"169 66",
+    "location":"Solna",
+    "population":1114
+  },
+  {
+    "code":"169 67",
+    "location":"Solna",
+    "population":339
+  },
+  {
+    "code":"169 68",
+    "location":"Solna",
+    "population":575
+  },
+  {
+    "code":"169 69",
+    "location":"Solna",
+    "population":1180
+  },
+  {
+    "code":"169 70",
+    "location":"Solna",
+    "population":197
+  },
+  {
+    "code":"169 71",
+    "location":"Solna",
+    "population":705
+  },
+  {
+    "code":"169 72",
+    "location":"Solna",
+    "population":1187
+  },
+  {
+    "code":"169 73",
+    "location":"Solna",
+    "population":2293
+  },
+  {
+    "code":"169 74",
+    "location":"Solna",
+    "population":1621
+  },
+  {
+    "code":"170 62",
+    "location":"Solna",
+    "population":300
+  },
+  {
+    "code":"170 63",
+    "location":"Solna",
+    "population":304
+  },
+  {
+    "code":"170 65",
+    "location":"Solna",
+    "population":1355
+  },
+  {
+    "code":"170 66",
+    "location":"Solna",
+    "population":981
+  },
+  {
+    "code":"170 67",
+    "location":"Solna",
+    "population":1029
+  },
+  {
+    "code":"170 68",
+    "location":"Solna",
+    "population":1137
+  },
+  {
+    "code":"170 69",
+    "location":"Solna",
+    "population":1688
+  },
+  {
+    "code":"170 70",
+    "location":"Solna",
+    "population":1966
+  },
+  {
+    "code":"170 71",
+    "location":"Solna",
+    "population":739
+  },
+  {
+    "code":"170 72",
+    "location":"Solna",
+    "population":819
+  },
+  {
+    "code":"170 73",
+    "location":"Solna",
+    "population":1014
+  },
+  {
+    "code":"170 74",
+    "location":"Solna",
+    "population":686
+  },
+  {
+    "code":"170 75",
+    "location":"Solna",
+    "population":691
+  },
+  {
+    "code":"170 76",
+    "location":"Solna",
+    "population":666
+  },
+  {
+    "code":"170 77",
+    "location":"Solna",
+    "population":925
+  },
+  {
+    "code":"170 78",
+    "location":"Solna",
+    "population":679
+  },
+  {
+    "code":"170 79",
+    "location":"Solna",
+    "population":156
+  },
+  {
+    "code":"171 41",
+    "location":"Solna",
+    "population":44
+  },
+  {
+    "code":"171 42",
+    "location":"Solna",
+    "population":793
+  },
+  {
+    "code":"171 43",
+    "location":"Solna",
+    "population":1168
+  },
+  {
+    "code":"171 44",
+    "location":"Solna",
+    "population":899
+  },
+  {
+    "code":"171 45",
+    "location":"Solna",
+    "population":397
+  },
+  {
+    "code":"171 47",
+    "location":"Solna",
+    "population":1025
+  },
+  {
+    "code":"171 48",
+    "location":"Solna",
+    "population":27
+  },
+  {
+    "code":"171 49",
+    "location":"Solna",
+    "population":832
+  },
+  {
+    "code":"171 50",
+    "location":"Solna",
+    "population":856
+  },
+  {
+    "code":"171 51",
+    "location":"Solna",
+    "population":1116
+  },
+  {
+    "code":"171 52",
+    "location":"Solna",
+    "population":647
+  },
+  {
+    "code":"171 53",
+    "location":"Solna",
+    "population":751
+  },
+  {
+    "code":"171 54",
+    "location":"Solna",
+    "population":8
+  },
+  {
+    "code":"171 55",
+    "location":"Solna",
+    "population":919
+  },
+  {
+    "code":"171 56",
+    "location":"Solna",
+    "population":842
+  },
+  {
+    "code":"171 57",
+    "location":"Solna",
+    "population":822
+  },
+  {
+    "code":"171 58",
+    "location":"Solna",
+    "population":1286
+  },
+  {
+    "code":"171 59",
+    "location":"Solna",
+    "population":919
+  },
+  {
+    "code":"171 60",
+    "location":"Solna",
+    "population":748
+  },
+  {
+    "code":"171 61",
+    "location":"Solna",
+    "population":815
+  },
+  {
+    "code":"171 62",
+    "location":"Solna",
+    "population":658
+  },
+  {
+    "code":"171 63",
+    "location":"Solna",
+    "population":1191
+  },
+  {
+    "code":"171 64",
+    "location":"Solna",
+    "population":664
+  },
+  {
+    "code":"171 65",
+    "location":"Solna",
+    "population":492
+  },
+  {
+    "code":"171 66",
+    "location":"Solna",
+    "population":853
+  },
+  {
+    "code":"171 67",
+    "location":"Solna",
+    "population":1047
+  },
+  {
+    "code":"171 68",
+    "location":"Solna",
+    "population":1133
+  },
+  {
+    "code":"171 70",
+    "location":"Solna",
+    "population":837
+  },
+  {
+    "code":"171 71",
+    "location":"Solna",
+    "population":1416
+  },
+  {
+    "code":"171 72",
+    "location":"Solna",
+    "population":678
+  },
+  {
+    "code":"171 73",
+    "location":"Solna",
+    "population":228
+  },
+  {
+    "code":"172 30",
+    "location":"Sundbyberg",
+    "population":811
+  },
+  {
+    "code":"172 31",
+    "location":"Sundbyberg",
+    "population":935
+  },
+  {
+    "code":"172 32",
+    "location":"Sundbyberg",
+    "population":935
+  },
+  {
+    "code":"172 33",
+    "location":"Sundbyberg",
+    "population":681
+  },
+  {
+    "code":"172 34",
+    "location":"Sundbyberg",
+    "population":532
+  },
+  {
+    "code":"172 35",
+    "location":"Sundbyberg",
+    "population":681
+  },
+  {
+    "code":"172 36",
+    "location":"Sundbyberg",
+    "population":819
+  },
+  {
+    "code":"172 37",
+    "location":"Sundbyberg",
+    "population":1240
+  },
+  {
+    "code":"172 38",
+    "location":"Sundbyberg",
+    "population":633
+  },
+  {
+    "code":"172 39",
+    "location":"Sundbyberg",
+    "population":627
+  },
+  {
+    "code":"172 40",
+    "location":"Sundbyberg",
+    "population":856
+  },
+  {
+    "code":"172 41",
+    "location":"Sundbyberg",
+    "population":652
+  },
+  {
+    "code":"172 62",
+    "location":"Sundbyberg",
+    "population":560
+  },
+  {
+    "code":"172 63",
+    "location":"Sundbyberg",
+    "population":718
+  },
+  {
+    "code":"172 64",
+    "location":"Sundbyberg",
+    "population":654
+  },
+  {
+    "code":"172 65",
+    "location":"Sundbyberg",
+    "population":723
+  },
+  {
+    "code":"172 66",
+    "location":"Sundbyberg",
+    "population":928
+  },
+  {
+    "code":"172 67",
+    "location":"Sundbyberg",
+    "population":364
+  },
+  {
+    "code":"172 68",
+    "location":"Sundbyberg",
+    "population":686
+  },
+  {
+    "code":"172 69",
+    "location":"Sundbyberg",
+    "population":719
+  },
+  {
+    "code":"172 70",
+    "location":"Sundbyberg",
+    "population":334
+  },
+  {
+    "code":"172 71",
+    "location":"Sundbyberg",
+    "population":396
+  },
+  {
+    "code":"172 72",
+    "location":"Sundbyberg",
+    "population":1213
+  },
+  {
+    "code":"172 73",
+    "location":"Sundbyberg",
+    "population":1105
+  },
+  {
+    "code":"172 74",
+    "location":"Sundbyberg",
+    "population":715
+  },
+  {
+    "code":"172 75",
+    "location":"Sundbyberg",
+    "population":906
+  },
+  {
+    "code":"172 76",
+    "location":"Sundbyberg",
+    "population":969
+  },
+  {
+    "code":"172 77",
+    "location":"Sundbyberg",
+    "population":766
+  },
+  {
+    "code":"172 78",
+    "location":"Sundbyberg",
+    "population":621
+  },
+  {
+    "code":"172 79",
+    "location":"Sundbyberg",
+    "population":787
+  },
+  {
+    "code":"174 41",
+    "location":"Sundbyberg",
+    "population":938
+  },
+  {
+    "code":"174 42",
+    "location":"Sundbyberg",
+    "population":618
+  },
+  {
+    "code":"174 43",
+    "location":"Sundbyberg",
+    "population":1159
+  },
+  {
+    "code":"174 44",
+    "location":"Sundbyberg",
+    "population":1285
+  },
+  {
+    "code":"174 45",
+    "location":"Sundbyberg",
+    "population":929
+  },
+  {
+    "code":"174 46",
+    "location":"Sundbyberg",
+    "population":861
+  },
+  {
+    "code":"174 47",
+    "location":"Sundbyberg",
+    "population":927
+  },
+  {
+    "code":"174 48",
+    "location":"Sundbyberg",
+    "population":1005
+  },
+  {
+    "code":"174 49",
+    "location":"Sundbyberg",
+    "population":916
+  },
+  {
+    "code":"174 50",
+    "location":"Sundbyberg",
+    "population":616
+  },
+  {
+    "code":"174 51",
+    "location":"Sundbyberg",
+    "population":623
+  },
+  {
+    "code":"174 52",
+    "location":"Sundbyberg",
+    "population":609
+  },
+  {
+    "code":"174 53",
+    "location":"Sundbyberg",
+    "population":492
+  },
+  {
+    "code":"174 54",
+    "location":"Sundbyberg",
+    "population":914
+  },
+  {
+    "code":"174 55",
+    "location":"Sundbyberg",
+    "population":857
+  },
+  {
+    "code":"174 56",
+    "location":"Sundbyberg",
+    "population":538
+  },
+  {
+    "code":"174 57",
+    "location":"Sundbyberg",
+    "population":646
+  },
+  {
+    "code":"174 58",
+    "location":"Sundbyberg",
+    "population":854
+  },
+  {
+    "code":"174 59",
+    "location":"Sundbyberg",
+    "population":888
+  },
+  {
+    "code":"174 60",
+    "location":"Sundbyberg",
+    "population":788
+  },
+  {
+    "code":"174 61",
+    "location":"Sundbyberg",
+    "population":149
+  },
+  {
+    "code":"174 62",
+    "location":"Sundbyberg",
+    "population":1267
+  },
+  {
+    "code":"174 63",
+    "location":"Sundbyberg",
+    "population":164
+  },
+  {
+    "code":"174 64",
+    "location":"Sundbyberg",
+    "population":105
+  },
+  {
+    "code":"175 41",
+    "location":"J�rf�lla",
+    "population":1
+  },
+  {
+    "code":"175 43",
+    "location":"J�rf�lla",
+    "population":1270
+  },
+  {
+    "code":"175 44",
+    "location":"J�rf�lla",
+    "population":698
+  },
+  {
+    "code":"175 45",
+    "location":"J�rf�lla",
+    "population":1155
+  },
+  {
+    "code":"175 46",
+    "location":"J�rf�lla",
+    "population":1095
+  },
+  {
+    "code":"175 47",
+    "location":"J�rf�lla",
+    "population":872
+  },
+  {
+    "code":"175 48",
+    "location":"J�rf�lla",
+    "population":1189
+  },
+  {
+    "code":"175 49",
+    "location":"J�rf�lla",
+    "population":951
+  },
+  {
+    "code":"175 50",
+    "location":"J�rf�lla",
+    "population":1133
+  },
+  {
+    "code":"175 51",
+    "location":"J�rf�lla",
+    "population":831
+  },
+  {
+    "code":"175 52",
+    "location":"J�rf�lla",
+    "population":1241
+  },
+  {
+    "code":"175 53",
+    "location":"J�rf�lla",
+    "population":1058
+  },
+  {
+    "code":"175 54",
+    "location":"J�rf�lla",
+    "population":1217
+  },
+  {
+    "code":"175 55",
+    "location":"J�rf�lla",
+    "population":1056
+  },
+  {
+    "code":"175 56",
+    "location":"J�rf�lla",
+    "population":957
+  },
+  {
+    "code":"175 57",
+    "location":"J�rf�lla",
+    "population":797
+  },
+  {
+    "code":"175 60",
+    "location":"J�rf�lla",
+    "population":1510
+  },
+  {
+    "code":"175 61",
+    "location":"J�rf�lla",
+    "population":44
+  },
+  {
+    "code":"175 62",
+    "location":"J�rf�lla",
+    "population":24
+  },
+  {
+    "code":"175 63",
+    "location":"J�rf�lla",
+    "population":817
+  },
+  {
+    "code":"175 64",
+    "location":"J�rf�lla",
+    "population":1504
+  },
+  {
+    "code":"175 65",
+    "location":"J�rf�lla",
+    "population":1236
+  },
+  {
+    "code":"175 66",
+    "location":"J�rf�lla",
+    "population":1540
+  },
+  {
+    "code":"175 67",
+    "location":"J�rf�lla",
+    "population":1345
+  },
+  {
+    "code":"175 68",
+    "location":"J�rf�lla",
+    "population":1612
+  },
+  {
+    "code":"175 69",
+    "location":"J�rf�lla",
+    "population":1552
+  },
+  {
+    "code":"175 79",
+    "location":"J�rf�lla",
+    "population":452
+  },
+  {
+    "code":"176 68",
+    "location":"J�rf�lla",
+    "population":517
+  },
+  {
+    "code":"176 69",
+    "location":"J�rf�lla",
+    "population":832
+  },
+  {
+    "code":"176 70",
+    "location":"J�rf�lla",
+    "population":1940
+  },
+  {
+    "code":"176 71",
+    "location":"J�rf�lla",
+    "population":1257
+  },
+  {
+    "code":"176 72",
+    "location":"J�rf�lla",
+    "population":1374
+  },
+  {
+    "code":"176 73",
+    "location":"J�rf�lla",
+    "population":881
+  },
+  {
+    "code":"176 74",
+    "location":"J�rf�lla",
+    "population":1891
+  },
+  {
+    "code":"176 75",
+    "location":"J�rf�lla",
+    "population":1964
+  },
+  {
+    "code":"176 76",
+    "location":"J�rf�lla",
+    "population":1826
+  },
+  {
+    "code":"176 77",
+    "location":"J�rf�lla",
+    "population":1691
+  },
+  {
+    "code":"177 30",
+    "location":"J�rf�lla",
+    "population":920
+  },
+  {
+    "code":"177 31",
+    "location":"J�rf�lla",
+    "population":950
+  },
+  {
+    "code":"177 32",
+    "location":"J�rf�lla",
+    "population":352
+  },
+  {
+    "code":"177 33",
+    "location":"J�rf�lla",
+    "population":1134
+  },
+  {
+    "code":"177 34",
+    "location":"J�rf�lla",
+    "population":1410
+  },
+  {
+    "code":"177 35",
+    "location":"J�rf�lla",
+    "population":1082
+  },
+  {
+    "code":"177 36",
+    "location":"J�rf�lla",
+    "population":1432
+  },
+  {
+    "code":"177 37",
+    "location":"J�rf�lla",
+    "population":866
+  },
+  {
+    "code":"177 38",
+    "location":"J�rf�lla",
+    "population":7
+  },
+  {
+    "code":"177 39",
+    "location":"J�rf�lla",
+    "population":978
+  },
+  {
+    "code":"177 40",
+    "location":"J�rf�lla",
+    "population":1184
+  },
+  {
+    "code":"177 41",
+    "location":"J�rf�lla",
+    "population":5
+  },
+  {
+    "code":"177 42",
+    "location":"J�rf�lla",
+    "population":891
+  },
+  {
+    "code":"177 43",
+    "location":"J�rf�lla",
+    "population":655
+  },
+  {
+    "code":"177 50",
+    "location":"J�rf�lla",
+    "population":593
+  },
+  {
+    "code":"177 51",
+    "location":"J�rf�lla",
+    "population":824
+  },
+  {
+    "code":"177 52",
+    "location":"J�rf�lla",
+    "population":598
+  },
+  {
+    "code":"177 53",
+    "location":"J�rf�lla",
+    "population":796
+  },
+  {
+    "code":"177 54",
+    "location":"J�rf�lla",
+    "population":1394
+  },
+  {
+    "code":"177 55",
+    "location":"J�rf�lla",
+    "population":1149
+  },
+  {
+    "code":"177 56",
+    "location":"J�rf�lla",
+    "population":753
+  },
+  {
+    "code":"177 57",
+    "location":"J�rf�lla",
+    "population":533
+  },
+  {
+    "code":"177 58",
+    "location":"J�rf�lla",
+    "population":680
+  },
+  {
+    "code":"177 59",
+    "location":"J�rf�lla",
+    "population":903
+  },
+  {
+    "code":"177 60",
+    "location":"J�rf�lla",
+    "population":1203
+  },
+  {
+    "code":"177 61",
+    "location":"J�rf�lla",
+    "population":1035
+  },
+  {
+    "code":"177 62",
+    "location":"J�rf�lla",
+    "population":689
+  },
+  {
+    "code":"177 63",
+    "location":"J�rf�lla",
+    "population":551
+  },
+  {
+    "code":"177 64",
+    "location":"J�rf�lla",
+    "population":853
+  },
+  {
+    "code":"177 70",
+    "location":"J�rf�lla",
+    "population":1104
+  },
+  {
+    "code":"177 71",
+    "location":"J�rf�lla",
+    "population":1217
+  },
+  {
+    "code":"178 30",
+    "location":"Eker�",
+    "population":895
+  },
+  {
+    "code":"178 31",
+    "location":"Eker�",
+    "population":633
+  },
+  {
+    "code":"178 32",
+    "location":"Eker�",
+    "population":1196
+  },
+  {
+    "code":"178 33",
+    "location":"Eker�",
+    "population":962
+  },
+  {
+    "code":"178 34",
+    "location":"Eker�",
+    "population":1330
+  },
+  {
+    "code":"178 35",
+    "location":"Eker�",
+    "population":1214
+  },
+  {
+    "code":"178 36",
+    "location":"Eker�",
+    "population":1002
+  },
+  {
+    "code":"178 37",
+    "location":"Eker�",
+    "population":1490
+  },
+  {
+    "code":"178 38",
+    "location":"Eker�",
+    "population":1360
+  },
+  {
+    "code":"178 39",
+    "location":"Eker�",
+    "population":649
+  },
+  {
+    "code":"178 40",
+    "location":"Eker�",
+    "population":757
+  },
+  {
+    "code":"178 41",
+    "location":"Eker�",
+    "population":426
+  },
+  {
+    "code":"178 51",
+    "location":"Eker�",
+    "population":886
+  },
+  {
+    "code":"178 52",
+    "location":"Eker�",
+    "population":650
+  },
+  {
+    "code":"178 53",
+    "location":"Eker�",
+    "population":346
+  },
+  {
+    "code":"178 54",
+    "location":"Eker�",
+    "population":576
+  },
+  {
+    "code":"178 90",
+    "location":"Eker�",
+    "population":503
+  },
+  {
+    "code":"178 91",
+    "location":"Muns�",
+    "population":901
+  },
+  {
+    "code":"178 92",
+    "location":"Adels�",
+    "population":786
+  },
+  {
+    "code":"178 93",
+    "location":"Drottningholm",
+    "population":973
+  },
+  {
+    "code":"179 60",
+    "location":"Stenhamra",
+    "population":1048
+  },
+  {
+    "code":"179 61",
+    "location":"Stenhamra",
+    "population":1179
+  },
+  {
+    "code":"179 62",
+    "location":"Stenhamra",
+    "population":657
+  },
+  {
+    "code":"179 63",
+    "location":"Stenhamra",
+    "population":559
+  },
+  {
+    "code":"179 65",
+    "location":"Stenhamra",
+    "population":117
+  },
+  {
+    "code":"179 75",
+    "location":"Sk�",
+    "population":1350
+  },
+  {
+    "code":"179 95",
+    "location":"Svartsj�",
+    "population":512
+  },
+  {
+    "code":"179 96",
+    "location":"Svartsj�",
+    "population":1249
+  },
+  {
+    "code":"179 97",
+    "location":"F�rentuna",
+    "population":1150
+  },
+  {
+    "code":"179 98",
+    "location":"F�rentuna",
+    "population":776
+  },
+  {
+    "code":"181 29",
+    "location":"Liding�",
+    "population":1316
+  },
+  {
+    "code":"181 30",
+    "location":"Liding�",
+    "population":1975
+  },
+  {
+    "code":"181 31",
+    "location":"Liding�",
+    "population":1736
+  },
+  {
+    "code":"181 32",
+    "location":"Liding�",
+    "population":1662
+  },
+  {
+    "code":"181 33",
+    "location":"Liding�",
+    "population":618
+  },
+  {
+    "code":"181 34",
+    "location":"Liding�",
+    "population":736
+  },
+  {
+    "code":"181 35",
+    "location":"Liding�",
+    "population":819
+  },
+  {
+    "code":"181 36",
+    "location":"Liding�",
+    "population":1173
+  },
+  {
+    "code":"181 37",
+    "location":"Liding�",
+    "population":826
+  },
+  {
+    "code":"181 38",
+    "location":"Liding�",
+    "population":1560
+  },
+  {
+    "code":"181 39",
+    "location":"Liding�",
+    "population":1646
+  },
+  {
+    "code":"181 40",
+    "location":"Liding�",
+    "population":1041
+  },
+  {
+    "code":"181 41",
+    "location":"Liding�",
+    "population":1431
+  },
+  {
+    "code":"181 42",
+    "location":"Liding�",
+    "population":1154
+  },
+  {
+    "code":"181 43",
+    "location":"Liding�",
+    "population":1881
+  },
+  {
+    "code":"181 44",
+    "location":"Liding�",
+    "population":1167
+  },
+  {
+    "code":"181 45",
+    "location":"Liding�",
+    "population":590
+  },
+  {
+    "code":"181 46",
+    "location":"Liding�",
+    "population":1884
+  },
+  {
+    "code":"181 47",
+    "location":"Liding�",
+    "population":1603
+  },
+  {
+    "code":"181 48",
+    "location":"Liding�",
+    "population":1252
+  },
+  {
+    "code":"181 50",
+    "location":"Liding�",
+    "population":977
+  },
+  {
+    "code":"181 51",
+    "location":"Liding�",
+    "population":1100
+  },
+  {
+    "code":"181 55",
+    "location":"Liding�",
+    "population":114
+  },
+  {
+    "code":"181 56",
+    "location":"Liding�",
+    "population":698
+  },
+  {
+    "code":"181 57",
+    "location":"Liding�",
+    "population":1299
+  },
+  {
+    "code":"181 58",
+    "location":"Liding�",
+    "population":1532
+  },
+  {
+    "code":"181 59",
+    "location":"Liding�",
+    "population":327
+  },
+  {
+    "code":"181 60",
+    "location":"Liding�",
+    "population":1409
+  },
+  {
+    "code":"181 61",
+    "location":"Liding�",
+    "population":1648
+  },
+  {
+    "code":"181 62",
+    "location":"Liding�",
+    "population":2100
+  },
+  {
+    "code":"181 63",
+    "location":"Liding�",
+    "population":1643
+  },
+  {
+    "code":"181 64",
+    "location":"Liding�",
+    "population":1855
+  },
+  {
+    "code":"181 65",
+    "location":"Liding�",
+    "population":1833
+  },
+  {
+    "code":"181 66",
+    "location":"Liding�",
+    "population":1375
+  },
+  {
+    "code":"181 90",
+    "location":"Liding�",
+    "population":363
+  },
+  {
+    "code":"182 30",
+    "location":"Danderyd",
+    "population":1066
+  },
+  {
+    "code":"182 31",
+    "location":"Danderyd",
+    "population":628
+  },
+  {
+    "code":"182 32",
+    "location":"Danderyd",
+    "population":639
+  },
+  {
+    "code":"182 33",
+    "location":"Danderyd",
+    "population":855
+  },
+  {
+    "code":"182 34",
+    "location":"Danderyd",
+    "population":693
+  },
+  {
+    "code":"182 35",
+    "location":"Danderyd",
+    "population":1065
+  },
+  {
+    "code":"182 36",
+    "location":"Danderyd",
+    "population":508
+  },
+  {
+    "code":"182 37",
+    "location":"Danderyd",
+    "population":613
+  },
+  {
+    "code":"182 38",
+    "location":"Danderyd",
+    "population":857
+  },
+  {
+    "code":"182 39",
+    "location":"Danderyd",
+    "population":1210
+  },
+  {
+    "code":"182 45",
+    "location":"Enebyberg",
+    "population":951
+  },
+  {
+    "code":"182 46",
+    "location":"Enebyberg",
+    "population":1300
+  },
+  {
+    "code":"182 47",
+    "location":"Enebyberg",
+    "population":1322
+  },
+  {
+    "code":"182 48",
+    "location":"Enebyberg",
+    "population":1029
+  },
+  {
+    "code":"182 49",
+    "location":"Enebyberg",
+    "population":791
+  },
+  {
+    "code":"182 50",
+    "location":"Danderyd",
+    "population":610
+  },
+  {
+    "code":"182 52",
+    "location":"Danderyd",
+    "population":821
+  },
+  {
+    "code":"182 53",
+    "location":"Danderyd",
+    "population":563
+  },
+  {
+    "code":"182 54",
+    "location":"Djursholm",
+    "population":956
+  },
+  {
+    "code":"182 55",
+    "location":"Djursholm",
+    "population":696
+  },
+  {
+    "code":"182 56",
+    "location":"Danderyd",
+    "population":937
+  },
+  {
+    "code":"182 57",
+    "location":"Danderyd",
+    "population":641
+  },
+  {
+    "code":"182 60",
+    "location":"Djursholm",
+    "population":623
+  },
+  {
+    "code":"182 61",
+    "location":"Djursholm",
+    "population":818
+  },
+  {
+    "code":"182 62",
+    "location":"Djursholm",
+    "population":781
+  },
+  {
+    "code":"182 63",
+    "location":"Djursholm",
+    "population":1104
+  },
+  {
+    "code":"182 64",
+    "location":"Djursholm",
+    "population":1019
+  },
+  {
+    "code":"182 65",
+    "location":"Djursholm",
+    "population":651
+  },
+  {
+    "code":"182 66",
+    "location":"Djursholm",
+    "population":728
+  },
+  {
+    "code":"182 67",
+    "location":"Djursholm",
+    "population":798
+  },
+  {
+    "code":"182 68",
+    "location":"Djursholm",
+    "population":586
+  },
+  {
+    "code":"182 69",
+    "location":"Djursholm",
+    "population":355
+  },
+  {
+    "code":"182 70",
+    "location":"Stocksund",
+    "population":365
+  },
+  {
+    "code":"182 73",
+    "location":"Stocksund",
+    "population":1086
+  },
+  {
+    "code":"182 74",
+    "location":"Stocksund",
+    "population":839
+  },
+  {
+    "code":"182 75",
+    "location":"Stocksund",
+    "population":1107
+  },
+  {
+    "code":"182 76",
+    "location":"Stocksund",
+    "population":409
+  },
+  {
+    "code":"182 77",
+    "location":"Stocksund",
+    "population":336
+  },
+  {
+    "code":"182 78",
+    "location":"Stocksund",
+    "population":708
+  },
+  {
+    "code":"182 79",
+    "location":"Stocksund",
+    "population":861
+  },
+  {
+    "code":"183 30",
+    "location":"T�by",
+    "population":1529
+  },
+  {
+    "code":"183 31",
+    "location":"T�by",
+    "population":652
+  },
+  {
+    "code":"183 32",
+    "location":"T�by",
+    "population":1086
+  },
+  {
+    "code":"183 33",
+    "location":"T�by",
+    "population":808
+  },
+  {
+    "code":"183 34",
+    "location":"T�by",
+    "population":1
+  },
+  {
+    "code":"183 35",
+    "location":"T�by",
+    "population":904
+  },
+  {
+    "code":"183 36",
+    "location":"T�by",
+    "population":551
+  },
+  {
+    "code":"183 37",
+    "location":"T�by",
+    "population":676
+  },
+  {
+    "code":"183 39",
+    "location":"T�by",
+    "population":21
+  },
+  {
+    "code":"183 48",
+    "location":"T�by",
+    "population":619
+  },
+  {
+    "code":"183 49",
+    "location":"T�by",
+    "population":1
+  },
+  {
+    "code":"183 50",
+    "location":"T�by",
+    "population":880
+  },
+  {
+    "code":"183 51",
+    "location":"T�by",
+    "population":1270
+  },
+  {
+    "code":"183 52",
+    "location":"T�by",
+    "population":1403
+  },
+  {
+    "code":"183 53",
+    "location":"T�by",
+    "population":1124
+  },
+  {
+    "code":"183 54",
+    "location":"T�by",
+    "population":626
+  },
+  {
+    "code":"183 55",
+    "location":"T�by",
+    "population":1013
+  },
+  {
+    "code":"183 56",
+    "location":"T�by",
+    "population":1196
+  },
+  {
+    "code":"183 57",
+    "location":"T�by",
+    "population":1379
+  },
+  {
+    "code":"183 58",
+    "location":"T�by",
+    "population":761
+  },
+  {
+    "code":"183 59",
+    "location":"T�by",
+    "population":608
+  },
+  {
+    "code":"183 60",
+    "location":"T�by",
+    "population":1072
+  },
+  {
+    "code":"183 61",
+    "location":"T�by",
+    "population":777
+  },
+  {
+    "code":"183 62",
+    "location":"T�by",
+    "population":688
+  },
+  {
+    "code":"183 63",
+    "location":"T�by",
+    "population":1725
+  },
+  {
+    "code":"183 64",
+    "location":"T�by",
+    "population":712
+  },
+  {
+    "code":"183 65",
+    "location":"T�by",
+    "population":1072
+  },
+  {
+    "code":"183 66",
+    "location":"T�by",
+    "population":498
+  },
+  {
+    "code":"183 67",
+    "location":"T�by",
+    "population":543
+  },
+  {
+    "code":"183 68",
+    "location":"T�by",
+    "population":879
+  },
+  {
+    "code":"183 69",
+    "location":"T�by",
+    "population":602
+  },
+  {
+    "code":"183 70",
+    "location":"T�by",
+    "population":524
+  },
+  {
+    "code":"183 77",
+    "location":"T�by",
+    "population":694
+  },
+  {
+    "code":"183 78",
+    "location":"T�by",
+    "population":1042
+  },
+  {
+    "code":"183 79",
+    "location":"T�by",
+    "population":698
+  },
+  {
+    "code":"184 30",
+    "location":"�Kersberga",
+    "population":1500
+  },
+  {
+    "code":"184 31",
+    "location":"�Kersberga",
+    "population":1436
+  },
+  {
+    "code":"184 32",
+    "location":"�Kersberga",
+    "population":1903
+  },
+  {
+    "code":"184 33",
+    "location":"�Kersberga",
+    "population":2250
+  },
+  {
+    "code":"184 34",
+    "location":"�Kersberga",
+    "population":1841
+  },
+  {
+    "code":"184 35",
+    "location":"�Kersberga",
+    "population":814
+  },
+  {
+    "code":"184 36",
+    "location":"�Kersberga",
+    "population":1952
+  },
+  {
+    "code":"184 37",
+    "location":"�Kersberga",
+    "population":1334
+  },
+  {
+    "code":"184 38",
+    "location":"�Kersberga",
+    "population":1479
+  },
+  {
+    "code":"184 39",
+    "location":"�Kersberga",
+    "population":359
+  },
+  {
+    "code":"184 40",
+    "location":"�Kersberga",
+    "population":49
+  },
+  {
+    "code":"184 41",
+    "location":"�Kersberga",
+    "population":1636
+  },
+  {
+    "code":"184 42",
+    "location":"�Kersberga",
+    "population":751
+  },
+  {
+    "code":"184 43",
+    "location":"�Kersberga",
+    "population":348
+  },
+  {
+    "code":"184 44",
+    "location":"�Kersberga",
+    "population":490
+  },
+  {
+    "code":"184 50",
+    "location":"�Kersberga",
+    "population":1695
+  },
+  {
+    "code":"184 51",
+    "location":"�Stersk�r",
+    "population":1661
+  },
+  {
+    "code":"184 52",
+    "location":"�Stersk�r",
+    "population":1452
+  },
+  {
+    "code":"184 60",
+    "location":"�Kersberga",
+    "population":1900
+  },
+  {
+    "code":"184 61",
+    "location":"�Kersberga",
+    "population":2016
+  },
+  {
+    "code":"184 62",
+    "location":"�Kersberga",
+    "population":1547
+  },
+  {
+    "code":"184 63",
+    "location":"�Kersberga",
+    "population":2222
+  },
+  {
+    "code":"184 70",
+    "location":"�Kersberga",
+    "population":1840
+  },
+  {
+    "code":"184 91",
+    "location":"�Kersberga",
+    "population":1788
+  },
+  {
+    "code":"184 92",
+    "location":"�Kersberga",
+    "population":1586
+  },
+  {
+    "code":"184 93",
+    "location":"�Kersberga",
+    "population":806
+  },
+  {
+    "code":"184 94",
+    "location":"�Kersberga",
+    "population":1821
+  },
+  {
+    "code":"184 95",
+    "location":"Ljuster�",
+    "population":778
+  },
+  {
+    "code":"184 96",
+    "location":"�Kersberga",
+    "population":14
+  },
+  {
+    "code":"184 97",
+    "location":"Ljuster�",
+    "population":755
+  },
+  {
+    "code":"184 99",
+    "location":"Husar�",
+    "population":39
+  },
+  {
+    "code":"185 31",
+    "location":"Vaxholm",
+    "population":865
+  },
+  {
+    "code":"185 32",
+    "location":"Vaxholm",
+    "population":708
+  },
+  {
+    "code":"185 33",
+    "location":"Vaxholm",
+    "population":676
+  },
+  {
+    "code":"185 34",
+    "location":"Vaxholm",
+    "population":1663
+  },
+  {
+    "code":"185 35",
+    "location":"Vaxholm",
+    "population":512
+  },
+  {
+    "code":"185 37",
+    "location":"Vaxholm",
+    "population":427
+  },
+  {
+    "code":"185 39",
+    "location":"Vaxholm",
+    "population":880
+  },
+  {
+    "code":"185 41",
+    "location":"Vaxholm",
+    "population":1146
+  },
+  {
+    "code":"185 51",
+    "location":"Vaxholm",
+    "population":692
+  },
+  {
+    "code":"185 91",
+    "location":"Vaxholm",
+    "population":323
+  },
+  {
+    "code":"185 92",
+    "location":"Vaxholm",
+    "population":402
+  },
+  {
+    "code":"185 93",
+    "location":"Vaxholm",
+    "population":237
+  },
+  {
+    "code":"185 94",
+    "location":"Vaxholm",
+    "population":1588
+  },
+  {
+    "code":"185 95",
+    "location":"Vaxholm",
+    "population":849
+  },
+  {
+    "code":"185 99",
+    "location":"Vaxholm",
+    "population":132
+  },
+  {
+    "code":"186 30",
+    "location":"Vallentuna",
+    "population":55
+  },
+  {
+    "code":"186 31",
+    "location":"Vallentuna",
+    "population":601
+  },
+  {
+    "code":"186 32",
+    "location":"Vallentuna",
+    "population":975
+  },
+  {
+    "code":"186 33",
+    "location":"Vallentuna",
+    "population":1250
+  },
+  {
+    "code":"186 34",
+    "location":"Vallentuna",
+    "population":1454
+  },
+  {
+    "code":"186 35",
+    "location":"Vallentuna",
+    "population":1105
+  },
+  {
+    "code":"186 36",
+    "location":"Vallentuna",
+    "population":1342
+  },
+  {
+    "code":"186 37",
+    "location":"Vallentuna",
+    "population":866
+  },
+  {
+    "code":"186 38",
+    "location":"Vallentuna",
+    "population":635
+  },
+  {
+    "code":"186 39",
+    "location":"Vallentuna",
+    "population":661
+  },
+  {
+    "code":"186 40",
+    "location":"Vallentuna",
+    "population":153
+  },
+  {
+    "code":"186 41",
+    "location":"Vallentuna",
+    "population":1141
+  },
+  {
+    "code":"186 42",
+    "location":"Vallentuna",
+    "population":1482
+  },
+  {
+    "code":"186 43",
+    "location":"Vallentuna",
+    "population":782
+  },
+  {
+    "code":"186 44",
+    "location":"Vallentuna",
+    "population":628
+  },
+  {
+    "code":"186 45",
+    "location":"Vallentuna",
+    "population":1090
+  },
+  {
+    "code":"186 46",
+    "location":"Vallentuna",
+    "population":640
+  },
+  {
+    "code":"186 47",
+    "location":"Vallentuna",
+    "population":632
+  },
+  {
+    "code":"186 49",
+    "location":"Vallentuna",
+    "population":667
+  },
+  {
+    "code":"186 50",
+    "location":"Vallentuna",
+    "population":1604
+  },
+  {
+    "code":"186 51",
+    "location":"Vallentuna",
+    "population":638
+  },
+  {
+    "code":"186 52",
+    "location":"Vallentuna",
+    "population":431
+  },
+  {
+    "code":"186 53",
+    "location":"Vallentuna",
+    "population":1443
+  },
+  {
+    "code":"186 54",
+    "location":"Vallentuna",
+    "population":879
+  },
+  {
+    "code":"186 55",
+    "location":"Vallentuna",
+    "population":1090
+  },
+  {
+    "code":"186 56",
+    "location":"Vallentuna",
+    "population":712
+  },
+  {
+    "code":"186 60",
+    "location":"Vallentuna",
+    "population":514
+  },
+  {
+    "code":"186 70",
+    "location":"Brottby",
+    "population":1058
+  },
+  {
+    "code":"186 91",
+    "location":"Vallentuna",
+    "population":969
+  },
+  {
+    "code":"186 92",
+    "location":"Vallentuna",
+    "population":963
+  },
+  {
+    "code":"186 93",
+    "location":"Vallentuna",
+    "population":296
+  },
+  {
+    "code":"186 94",
+    "location":"Vallentuna",
+    "population":1495
+  },
+  {
+    "code":"186 95",
+    "location":"Vallentuna",
+    "population":617
+  },
+  {
+    "code":"186 96",
+    "location":"Vallentuna",
+    "population":891
+  },
+  {
+    "code":"186 97",
+    "location":"Brottby",
+    "population":1439
+  },
+  {
+    "code":"187 30",
+    "location":"T�by",
+    "population":948
+  },
+  {
+    "code":"187 31",
+    "location":"T�by",
+    "population":1184
+  },
+  {
+    "code":"187 32",
+    "location":"T�by",
+    "population":915
+  },
+  {
+    "code":"187 33",
+    "location":"T�by",
+    "population":1165
+  },
+  {
+    "code":"187 34",
+    "location":"T�by",
+    "population":1086
+  },
+  {
+    "code":"187 35",
+    "location":"T�by",
+    "population":998
+  },
+  {
+    "code":"187 36",
+    "location":"T�by",
+    "population":991
+  },
+  {
+    "code":"187 37",
+    "location":"T�by",
+    "population":956
+  },
+  {
+    "code":"187 38",
+    "location":"T�by",
+    "population":792
+  },
+  {
+    "code":"187 40",
+    "location":"T�by",
+    "population":44
+  },
+  {
+    "code":"187 41",
+    "location":"T�by",
+    "population":1080
+  },
+  {
+    "code":"187 42",
+    "location":"T�by",
+    "population":1265
+  },
+  {
+    "code":"187 43",
+    "location":"T�by",
+    "population":1283
+  },
+  {
+    "code":"187 44",
+    "location":"T�by",
+    "population":973
+  },
+  {
+    "code":"187 45",
+    "location":"T�by",
+    "population":935
+  },
+  {
+    "code":"187 46",
+    "location":"T�by",
+    "population":934
+  },
+  {
+    "code":"187 50",
+    "location":"T�by",
+    "population":1003
+  },
+  {
+    "code":"187 51",
+    "location":"T�by",
+    "population":947
+  },
+  {
+    "code":"187 52",
+    "location":"T�by",
+    "population":1056
+  },
+  {
+    "code":"187 53",
+    "location":"T�by",
+    "population":1321
+  },
+  {
+    "code":"187 54",
+    "location":"T�by",
+    "population":1232
+  },
+  {
+    "code":"187 62",
+    "location":"T�by",
+    "population":1023
+  },
+  {
+    "code":"187 63",
+    "location":"T�by",
+    "population":1336
+  },
+  {
+    "code":"187 64",
+    "location":"T�by",
+    "population":1147
+  },
+  {
+    "code":"187 65",
+    "location":"T�by",
+    "population":1182
+  },
+  {
+    "code":"187 66",
+    "location":"T�by",
+    "population":14
+  },
+  {
+    "code":"187 67",
+    "location":"T�by",
+    "population":927
+  },
+  {
+    "code":"187 68",
+    "location":"T�by",
+    "population":1237
+  },
+  {
+    "code":"187 69",
+    "location":"T�by",
+    "population":814
+  },
+  {
+    "code":"187 70",
+    "location":"T�by",
+    "population":1276
+  },
+  {
+    "code":"187 72",
+    "location":"T�by",
+    "population":782
+  },
+  {
+    "code":"187 73",
+    "location":"T�by",
+    "population":1660
+  },
+  {
+    "code":"187 74",
+    "location":"T�by",
+    "population":902
+  },
+  {
+    "code":"187 75",
+    "location":"T�by",
+    "population":1063
+  },
+  {
+    "code":"187 76",
+    "location":"T�by",
+    "population":1291
+  },
+  {
+    "code":"187 77",
+    "location":"T�by",
+    "population":900
+  },
+  {
+    "code":"190 60",
+    "location":"Stockholm-arlanda",
+    "population":22
+  },
+  {
+    "code":"191 33",
+    "location":"Sollentuna",
+    "population":1102
+  },
+  {
+    "code":"191 34",
+    "location":"Sollentuna",
+    "population":1765
+  },
+  {
+    "code":"191 35",
+    "location":"Sollentuna",
+    "population":1538
+  },
+  {
+    "code":"191 36",
+    "location":"Sollentuna",
+    "population":610
+  },
+  {
+    "code":"191 38",
+    "location":"Sollentuna",
+    "population":2275
+  },
+  {
+    "code":"191 39",
+    "location":"Sollentuna",
+    "population":1206
+  },
+  {
+    "code":"191 40",
+    "location":"Sollentuna",
+    "population":1598
+  },
+  {
+    "code":"191 41",
+    "location":"Sollentuna",
+    "population":1667
+  },
+  {
+    "code":"191 42",
+    "location":"Sollentuna",
+    "population":1615
+  },
+  {
+    "code":"191 43",
+    "location":"Sollentuna",
+    "population":1644
+  },
+  {
+    "code":"191 44",
+    "location":"Sollentuna",
+    "population":1482
+  },
+  {
+    "code":"191 45",
+    "location":"Sollentuna",
+    "population":1732
+  },
+  {
+    "code":"191 46",
+    "location":"Sollentuna",
+    "population":1911
+  },
+  {
+    "code":"191 47",
+    "location":"Sollentuna",
+    "population":1282
+  },
+  {
+    "code":"191 48",
+    "location":"Sollentuna",
+    "population":699
+  },
+  {
+    "code":"191 49",
+    "location":"Sollentuna",
+    "population":2039
+  },
+  {
+    "code":"191 50",
+    "location":"Sollentuna",
+    "population":1276
+  },
+  {
+    "code":"191 60",
+    "location":"Sollentuna",
+    "population":1428
+  },
+  {
+    "code":"191 61",
+    "location":"Sollentuna",
+    "population":1911
+  },
+  {
+    "code":"191 62",
+    "location":"Sollentuna",
+    "population":1286
+  },
+  {
+    "code":"191 63",
+    "location":"Sollentuna",
+    "population":1599
+  },
+  {
+    "code":"191 64",
+    "location":"Sollentuna",
+    "population":639
+  },
+  {
+    "code":"192 48",
+    "location":"Sollentuna",
+    "population":2293
+  },
+  {
+    "code":"192 51",
+    "location":"Sollentuna",
+    "population":2191
+  },
+  {
+    "code":"192 52",
+    "location":"Sollentuna",
+    "population":2052
+  },
+  {
+    "code":"192 53",
+    "location":"Sollentuna",
+    "population":1860
+  },
+  {
+    "code":"192 54",
+    "location":"Sollentuna",
+    "population":1191
+  },
+  {
+    "code":"192 55",
+    "location":"Sollentuna",
+    "population":2342
+  },
+  {
+    "code":"192 56",
+    "location":"Sollentuna",
+    "population":1589
+  },
+  {
+    "code":"192 57",
+    "location":"Sollentuna",
+    "population":738
+  },
+  {
+    "code":"192 58",
+    "location":"Sollentuna",
+    "population":852
+  },
+  {
+    "code":"192 59",
+    "location":"Sollentuna",
+    "population":1139
+  },
+  {
+    "code":"192 66",
+    "location":"Sollentuna",
+    "population":629
+  },
+  {
+    "code":"192 67",
+    "location":"Sollentuna",
+    "population":977
+  },
+  {
+    "code":"192 68",
+    "location":"Sollentuna",
+    "population":1291
+  },
+  {
+    "code":"192 69",
+    "location":"Sollentuna",
+    "population":1378
+  },
+  {
+    "code":"192 70",
+    "location":"Sollentuna",
+    "population":1272
+  },
+  {
+    "code":"192 71",
+    "location":"Sollentuna",
+    "population":1523
+  },
+  {
+    "code":"192 72",
+    "location":"Sollentuna",
+    "population":903
+  },
+  {
+    "code":"192 73",
+    "location":"Sollentuna",
+    "population":2104
+  },
+  {
+    "code":"192 74",
+    "location":"Sollentuna",
+    "population":1833
+  },
+  {
+    "code":"192 75",
+    "location":"Sollentuna",
+    "population":1316
+  },
+  {
+    "code":"192 76",
+    "location":"Sollentuna",
+    "population":1008
+  },
+  {
+    "code":"192 77",
+    "location":"Sollentuna",
+    "population":1433
+  },
+  {
+    "code":"192 78",
+    "location":"Sollentuna",
+    "population":1235
+  },
+  {
+    "code":"192 79",
+    "location":"Sollentuna",
+    "population":1275
+  },
+  {
+    "code":"193 30",
+    "location":"Sigtuna",
+    "population":650
+  },
+  {
+    "code":"193 31",
+    "location":"Sigtuna",
+    "population":1274
+  },
+  {
+    "code":"193 32",
+    "location":"Sigtuna",
+    "population":1017
+  },
+  {
+    "code":"193 33",
+    "location":"Sigtuna",
+    "population":652
+  },
+  {
+    "code":"193 34",
+    "location":"Sigtuna",
+    "population":1189
+  },
+  {
+    "code":"193 35",
+    "location":"Sigtuna",
+    "population":778
+  },
+  {
+    "code":"193 36",
+    "location":"Sigtuna",
+    "population":499
+  },
+  {
+    "code":"193 40",
+    "location":"Sigtuna",
+    "population":1083
+  },
+  {
+    "code":"193 41",
+    "location":"Sigtuna",
+    "population":1813
+  },
+  {
+    "code":"193 91",
+    "location":"Sigtuna",
+    "population":1255
+  },
+  {
+    "code":"194 30",
+    "location":"Upplands V�sby",
+    "population":255
+  },
+  {
+    "code":"194 31",
+    "location":"Upplands V�sby",
+    "population":731
+  },
+  {
+    "code":"194 32",
+    "location":"Upplands V�sby",
+    "population":840
+  },
+  {
+    "code":"194 33",
+    "location":"Upplands V�sby",
+    "population":1260
+  },
+  {
+    "code":"194 34",
+    "location":"Upplands V�sby",
+    "population":899
+  },
+  {
+    "code":"194 35",
+    "location":"Upplands V�sby",
+    "population":946
+  },
+  {
+    "code":"194 36",
+    "location":"Upplands V�sby",
+    "population":1095
+  },
+  {
+    "code":"194 37",
+    "location":"Upplands V�sby",
+    "population":1019
+  },
+  {
+    "code":"194 38",
+    "location":"Upplands V�sby",
+    "population":1174
+  },
+  {
+    "code":"194 39",
+    "location":"Upplands V�sby",
+    "population":669
+  },
+  {
+    "code":"194 40",
+    "location":"Upplands V�sby",
+    "population":954
+  },
+  {
+    "code":"194 41",
+    "location":"Upplands V�sby",
+    "population":915
+  },
+  {
+    "code":"194 42",
+    "location":"Upplands V�sby",
+    "population":1099
+  },
+  {
+    "code":"194 43",
+    "location":"Upplands V�sby",
+    "population":977
+  },
+  {
+    "code":"194 44",
+    "location":"Upplands V�sby",
+    "population":796
+  },
+  {
+    "code":"194 45",
+    "location":"Upplands V�sby",
+    "population":578
+  },
+  {
+    "code":"194 46",
+    "location":"Upplands V�sby",
+    "population":835
+  },
+  {
+    "code":"194 47",
+    "location":"Upplands V�sby",
+    "population":489
+  },
+  {
+    "code":"194 51",
+    "location":"Upplands V�sby",
+    "population":1106
+  },
+  {
+    "code":"194 52",
+    "location":"Upplands V�sby",
+    "population":1335
+  },
+  {
+    "code":"194 53",
+    "location":"Upplands V�sby",
+    "population":1038
+  },
+  {
+    "code":"194 54",
+    "location":"Upplands V�sby",
+    "population":890
+  },
+  {
+    "code":"194 55",
+    "location":"Upplands V�sby",
+    "population":1415
+  },
+  {
+    "code":"194 56",
+    "location":"Upplands V�sby",
+    "population":719
+  },
+  {
+    "code":"194 57",
+    "location":"Upplands V�sby",
+    "population":1094
+  },
+  {
+    "code":"194 60",
+    "location":"Upplands V�sby",
+    "population":1147
+  },
+  {
+    "code":"194 61",
+    "location":"Upplands V�sby",
+    "population":3
+  },
+  {
+    "code":"194 62",
+    "location":"Upplands V�sby",
+    "population":730
+  },
+  {
+    "code":"194 63",
+    "location":"Upplands V�sby",
+    "population":942
+  },
+  {
+    "code":"194 64",
+    "location":"Upplands V�sby",
+    "population":1045
+  },
+  {
+    "code":"194 65",
+    "location":"Upplands V�sby",
+    "population":1037
+  },
+  {
+    "code":"194 66",
+    "location":"Upplands V�sby",
+    "population":1115
+  },
+  {
+    "code":"194 67",
+    "location":"Upplands V�sby",
+    "population":1046
+  },
+  {
+    "code":"194 68",
+    "location":"Upplands V�sby",
+    "population":1646
+  },
+  {
+    "code":"194 69",
+    "location":"Upplands V�sby",
+    "population":456
+  },
+  {
+    "code":"194 71",
+    "location":"Upplands V�sby",
+    "population":1020
+  },
+  {
+    "code":"194 72",
+    "location":"Upplands V�sby",
+    "population":717
+  },
+  {
+    "code":"194 73",
+    "location":"Upplands V�sby",
+    "population":881
+  },
+  {
+    "code":"194 74",
+    "location":"Upplands V�sby",
+    "population":525
+  },
+  {
+    "code":"194 75",
+    "location":"Upplands V�sby",
+    "population":794
+  },
+  {
+    "code":"194 76",
+    "location":"Upplands V�sby",
+    "population":940
+  },
+  {
+    "code":"194 77",
+    "location":"Upplands V�sby",
+    "population":572
+  },
+  {
+    "code":"194 78",
+    "location":"Upplands V�sby",
+    "population":822
+  },
+  {
+    "code":"194 79",
+    "location":"Upplands V�sby",
+    "population":819
+  },
+  {
+    "code":"194 91",
+    "location":"Upplands V�sby",
+    "population":476
+  },
+  {
+    "code":"194 92",
+    "location":"Upplands V�sby",
+    "population":740
+  },
+  {
+    "code":"195 30",
+    "location":"M�rsta",
+    "population":1093
+  },
+  {
+    "code":"195 31",
+    "location":"M�rsta",
+    "population":1053
+  },
+  {
+    "code":"195 32",
+    "location":"M�rsta",
+    "population":1042
+  },
+  {
+    "code":"195 33",
+    "location":"M�rsta",
+    "population":1210
+  },
+  {
+    "code":"195 34",
+    "location":"M�rsta",
+    "population":1219
+  },
+  {
+    "code":"195 35",
+    "location":"M�rsta",
+    "population":915
+  },
+  {
+    "code":"195 36",
+    "location":"M�rsta",
+    "population":474
+  },
+  {
+    "code":"195 40",
+    "location":"M�rsta",
+    "population":977
+  },
+  {
+    "code":"195 41",
+    "location":"M�rsta",
+    "population":545
+  },
+  {
+    "code":"195 42",
+    "location":"M�rsta",
+    "population":1343
+  },
+  {
+    "code":"195 43",
+    "location":"M�rsta",
+    "population":1130
+  },
+  {
+    "code":"195 44",
+    "location":"M�rsta",
+    "population":1330
+  },
+  {
+    "code":"195 45",
+    "location":"M�rsta",
+    "population":339
+  },
+  {
+    "code":"195 46",
+    "location":"M�rsta",
+    "population":545
+  },
+  {
+    "code":"195 47",
+    "location":"M�rsta",
+    "population":1257
+  },
+  {
+    "code":"195 50",
+    "location":"M�rsta",
+    "population":1283
+  },
+  {
+    "code":"195 51",
+    "location":"M�rsta",
+    "population":1090
+  },
+  {
+    "code":"195 52",
+    "location":"M�rsta",
+    "population":901
+  },
+  {
+    "code":"195 53",
+    "location":"M�rsta",
+    "population":993
+  },
+  {
+    "code":"195 54",
+    "location":"M�rsta",
+    "population":1543
+  },
+  {
+    "code":"195 55",
+    "location":"M�rsta",
+    "population":1264
+  },
+  {
+    "code":"195 56",
+    "location":"M�rsta",
+    "population":1255
+  },
+  {
+    "code":"195 57",
+    "location":"M�rsta",
+    "population":956
+  },
+  {
+    "code":"195 58",
+    "location":"M�rsta",
+    "population":1610
+  },
+  {
+    "code":"195 60",
+    "location":"Arlandastad",
+    "population":25
+  },
+  {
+    "code":"195 65",
+    "location":"Steningeh�jden",
+    "population":672
+  },
+  {
+    "code":"195 70",
+    "location":"Rosersberg",
+    "population":585
+  },
+  {
+    "code":"195 71",
+    "location":"Rosersberg",
+    "population":1123
+  },
+  {
+    "code":"195 72",
+    "location":"Rosersberg",
+    "population":7
+  },
+  {
+    "code":"195 91",
+    "location":"M�rsta",
+    "population":219
+  },
+  {
+    "code":"195 92",
+    "location":"M�rsta",
+    "population":1632
+  },
+  {
+    "code":"195 93",
+    "location":"M�rsta",
+    "population":968
+  },
+  {
+    "code":"195 94",
+    "location":"M�rsta",
+    "population":295
+  },
+  {
+    "code":"195 95",
+    "location":"Rosersberg",
+    "population":457
+  },
+  {
+    "code":"195 96",
+    "location":"Rosersberg",
+    "population":605
+  },
+  {
+    "code":"196 30",
+    "location":"Kungs�ngen",
+    "population":1972
+  },
+  {
+    "code":"196 31",
+    "location":"Kungs�ngen",
+    "population":1562
+  },
+  {
+    "code":"196 32",
+    "location":"Kungs�ngen",
+    "population":888
+  },
+  {
+    "code":"196 33",
+    "location":"Kungs�ngen",
+    "population":1316
+  },
+  {
+    "code":"196 34",
+    "location":"Kungs�ngen",
+    "population":1424
+  },
+  {
+    "code":"196 35",
+    "location":"Kungs�ngen",
+    "population":1374
+  },
+  {
+    "code":"196 36",
+    "location":"Kungs�ngen",
+    "population":265
+  },
+  {
+    "code":"196 37",
+    "location":"Kungs�ngen",
+    "population":2020
+  },
+  {
+    "code":"196 38",
+    "location":"Kungs�ngen",
+    "population":1914
+  },
+  {
+    "code":"196 39",
+    "location":"Kungs�ngen",
+    "population":262
+  },
+  {
+    "code":"196 40",
+    "location":"Kungs�ngen",
+    "population":125
+  },
+  {
+    "code":"196 41",
+    "location":"Kungs�ngen",
+    "population":369
+  },
+  {
+    "code":"196 91",
+    "location":"Kungs�ngen",
+    "population":55
+  },
+  {
+    "code":"196 92",
+    "location":"Kungs�ngen",
+    "population":131
+  },
+  {
+    "code":"196 93",
+    "location":"Kungs�ngen",
+    "population":381
+  },
+  {
+    "code":"197 30",
+    "location":"Bro",
+    "population":1429
+  },
+  {
+    "code":"197 31",
+    "location":"Bro",
+    "population":1221
+  },
+  {
+    "code":"197 32",
+    "location":"Bro",
+    "population":1735
+  },
+  {
+    "code":"197 34",
+    "location":"Bro",
+    "population":1402
+  },
+  {
+    "code":"197 35",
+    "location":"Bro",
+    "population":1226
+  },
+  {
+    "code":"197 36",
+    "location":"Bro",
+    "population":589
+  },
+  {
+    "code":"197 40",
+    "location":"Bro",
+    "population":12
+  },
+  {
+    "code":"197 91",
+    "location":"Bro",
+    "population":993
+  },
+  {
+    "code":"197 92",
+    "location":"Bro",
+    "population":849
+  },
+  {
+    "code":"197 93",
+    "location":"Bro",
+    "population":799
+  }
+];
